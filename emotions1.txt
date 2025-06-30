@@ -1,0 +1,957 @@
+100+ Emotional Datasets with Sentences for Recording
+Gene
+
+1.Joy
+Category: Primary Emotion
+Description: Pure, exuberant happiness from joyful experiences.
+
+Gene
+2. Relief
+Category: Secondary Emotion
+Description: Calm happiness after resolving stress or danger.
+
+Gene
+3. Anger
+Category: Primary Emotion
+Description: Strong displeasure triggered by wrongdoing or conflict.
+
+Gene
+4. Frustration
+Category: Secondary Emotion
+Description: Irritation caused by obstacles or unmet expectations.
+
+Gene
+5. Sadness
+Category: Primary Emotion
+Description: Emotional pain from loss, disappointment, or grief.
+
+Gene
+6. Fear
+Category: Primary Emotion
+Description: Distress caused by perceived danger or uncertainty.
+
+Gene
+7. Excitement
+Category: Secondary Emotion
+Description: Eager anticipation and energetic enthusiasm.
+
+Gene
+8. Calmness
+Category: Primary Emotion
+Description: Peaceful emotional state of relaxation and ease.
+
+Gene
+9. Gratitude
+Category: Secondary Emotion
+Description: Heartfelt thankfulness for kindness or help.
+
+Gene
+10. Confidence
+Category: Secondary Emotion
+Description: Self-assuredness and belief in one’s ability.
+
+Gene
+11. Compassion
+Category: Secondary Emotion
+Description: Deep empathy and desire to support others.
+
+Gene
+12. Jealousy
+Category: Secondary Emotion
+Description: Resentful longing for what others possess.
+
+Gene
+13. Awe
+Category: Primary Emotion
+Description: Overwhelming wonder inspired by greatness or beauty.
+
+Gene
+14. Curiosity
+Category: Secondary Emotion
+Description: Intense interest and desire to learn or understand.
+
+Gene
+15. Guilt
+Category: Secondary Emotion
+Description: Regret and remorse over one’s actions or mistakes.
+
+Gene
+16. Shame
+Category: Secondary Emotion
+Description: Embarrassment or humiliation due to self-perception.
+
+Gene
+17. Love
+Category: Primary Emotion
+Description: Deep affection and emotional connection with others.
+
+Gene
+18. Anger
+Category: Primary Emotion
+Description: A strong emotional reaction to perceived injustice, mistreatment, or frustration.
+
+Gene
+19. Relief
+Category: Secondary Emotion
+Description: A calming emotion following the end of stress, fear, or anxiety.
+
+Gene
+20. Surprise
+Category: Primary Emotion
+Description: A sudden emotional response to an unexpected or unforeseen event.
+
+Gene
+21. Fear
+Category: Primary Emotion
+Description: A primal emotion triggered by perceived danger, uncertainty, or threat.
+
+Gene
+22. Nostalgia
+Category: Secondary Emotion
+Description: A sentimental longing for the past, often blending happiness and sadness.
+
+Gene
+23. Suspicion
+Category: Secondary Emotion
+Description: An uneasy emotion rooted in doubt, distrust, or anticipation of wrongdoing.
+
+Gene
+24. Empathy
+Category: Secondary Emotion
+Description: A compassionate emotional response to another's experiences, marked by deep understanding and care.
+
+Gene
+25. Regret
+Category: Secondary Emotion
+Description: Sadness and reflection on past mistakes.
+
+Gene
+26. Hope
+Category: Secondary Emotion
+Description: Optimism and anticipation for future outcomes.
+
+Gene
+27. Envy
+Category: Secondary Emotion
+Description: Desire for what others have, tinged with sadness.
+
+Gene
+28. Jealousy
+Category: Secondary Emotion
+Description: Resentment fueled by comparison or insecurity.
+
+Gene
+29. Guilt
+Category: Secondary Emotion
+Description: Reflective sadness from recognizing a moral wrong.
+
+Gene
+30. Gratitude
+Category: Secondary Emotion
+Description: Warm appreciation and connection through kindness.
+
+Gene
+31. Loneliness
+Category: Secondary Emotion
+Description: Isolation and sadness from lack of connection.
+
+Gene
+32. Pride
+Category: Secondary Emotion
+Description: Happiness derived from accomplishments or milestones.
+
+Gene
+33. Anxiety
+Category: Primary Emotion
+Description: A state of worry and tension in the face of uncertainty.
+
+Gene
+34. Curiosity
+Category: Secondary Emotion
+Description: A drive to explore and discover through anticipation.
+
+Gene
+35. Shame
+Category: Secondary Emotion
+Description: Self-conscious regret rooted in perceived failure.
+
+Gene
+36. Determination
+Category: Secondary Emotion
+Description: Focused anticipation and perseverance through challenge.
+
+Gene
+37. Embarrassment
+Category: Secondary Emotion
+Description: Discomfort and awkwardness in social settings.
+
+Gene
+38. Admiration
+Category: Secondary Emotion
+Description: Respectful love or awe for someone’s qualities or actions.
+
+Gene
+39. Nostalgia
+Category: Secondary Emotion
+Description: Happy longing for meaningful past moments.
+
+Gene
+40. Relief
+Category: Secondary Emotion
+Description: Release of tension after overcoming uncertainty or danger.
+
+Gene
+41. Awe
+Category: Secondary Emotion
+Description: A profound feeling of wonder or amazement.
+
+Gene
+42. Contempt
+Category: Secondary Emotion
+Description: Disdain and a sense of superiority over others.
+
+Gene
+43. Surprise
+Category: Primary Emotion
+Description: A sudden emotional reaction to the unexpected.
+
+Gene
+44. Resentment
+Category: Secondary Emotion
+Description: Bitter anger rooted in unresolved conflict or betrayal.
+
+Gene
+45. Hope
+Category: Secondary Emotion
+Description: Anticipation and belief in positive change amid adversity.
+
+Gene
+46. Trust
+Category: Secondary Emotion
+Description: Emotional security rooted in reliability and love.
+
+Gene
+47. Disappointment
+Category: Secondary Emotion
+Description: Sadness from unmet expectations or failed hopes.
+
+Gene
+48. Boredom
+Category: Secondary Emotion
+Description: Disinterest from repetitive tasks or lack of stimulation.
+
+Gene
+49. Compassion
+Category: Secondary Emotion
+Description: Empathy and love shown through support and understanding.
+
+Gene
+50. Frustration
+Category: Secondary Emotion
+Description: Irritation or anger when facing difficulties or incompetence.
+
+Gene
+51. Anxiety
+Category: Secondary Emotion
+Description: Apprehension and fear in uncertain or high-pressure situations.
+
+Gene
+52. Pride
+Category: Secondary Emotion
+Description: Happiness and self-achievement after reaching personal goals.
+
+Gene
+53. Jealousy
+Category: Secondary Emotion
+Description: Anger or envy from comparing oneself to others' success.
+
+Gene
+54. Shame
+Category: Secondary Emotion
+Description: Sadness and humiliation after failure or moral missteps.
+
+Gene
+55. Curiosity
+Category: Secondary Emotion
+Description: Interest and wonder driven by the desire to learn or explore.
+
+Gene
+56. Guilt
+Category: Secondary Emotion
+Description: Sadness and remorse due to causing harm or breaking trust.
+
+Gene
+57. Anticipation
+Category: Secondary Emotion
+Description: Excitement and happiness while looking forward to future events.
+
+Gene
+58. Loneliness
+Category: Secondary Emotion
+Description: Sadness and isolation due to lack of connection or companionship.
+
+Gene
+59. Gratitude
+Category: Secondary Emotion
+Description: Happiness and appreciation for kindness and support received.
+
+Gene
+60. Regret
+Category: Secondary Emotion
+Description: Sadness and remorse over past mistakes or missed opportunities.
+
+Gene
+61. Determination
+Category: Secondary Emotion
+Description: Focus and resolve to overcome obstacles and reach goals.
+
+Gene
+62. Awe
+Category: Secondary Emotion
+Description: Wonder and astonishment at greatness or the extraordinary.
+
+Gene
+63. Embarrassment
+Category: Secondary Emotion
+Description: Shame and self-consciousness from awkward or public mistakes.
+
+Gene
+64. Relief
+Category: Secondary Emotion
+Description: Happiness and ease after resolving tension or danger.
+
+Gene
+65. Sympathy
+Category: Secondary Emotion
+Description: Empathy and compassion for someone else’s struggles.
+
+Gene
+66. Frustration
+Category: Secondary Emotion
+Description: Anger and impatience caused by delays or inefficiencies.
+
+Gene
+67. Confidence
+Category: Secondary Emotion
+Description: Happiness and certainty in one’s ability or plan.
+
+Gene
+68. Surprise
+Category: Primary Emotion
+Description: Reaction to unexpected events or outcomes.
+
+Gene
+69. Disappointment
+Category: Secondary Emotion
+Description: Sadness and regret after unmet expectations or setbacks.
+
+Gene
+70. Compassion
+Category: Secondary Emotion
+Description: Empathy and deep care for others during hardship.
+
+Gene
+71. Optimism
+Category: Secondary Emotion
+Description: Hopefulness and positive expectation for the future.
+
+Gene
+72. Loneliness
+Category: Secondary Emotion
+Description: Feeling isolated or socially disconnected.
+
+Gene
+73. Gratefulness
+Category: Secondary Emotion
+Description: Appreciation and thankfulness for kindness or support.
+
+Gene
+74. Guilt
+Category: Secondary Emotion
+Description: Feeling responsible and remorseful for mistakes.
+
+Gene
+75. Anticipation
+Category: Secondary Emotion
+Description: Excitement and eagerness for upcoming events or outcomes.
+
+Gene
+76. Suspicion
+Category: Secondary Emotion
+Description: Distrust and apprehension about motives or situations.
+
+Gene
+77. Joy
+Category: Primary Emotion
+Description: Pure, exuberant happiness and celebration.
+
+Gene
+78. Shame
+Category: Secondary Emotion
+Description: Self-consciousness and humiliation over actions or mistakes.
+
+Gene
+79. Nostalgia
+Category: Secondary Emotion
+Description: Sentimental reflection on cherished past memories.
+
+Gene
+80. Regret
+Category: Secondary Emotion
+Description: Sadness and responsibility for past choices and their consequences.
+
+Gene
+81. Triumph
+Category: Secondary Emotion
+Description: Victory, success, and pride in accomplishments.
+
+Gene
+82. Awe
+Category: Primary Emotion
+Description: Wonder and amazement at extraordinary events or beauty.
+
+Gene
+83. Jealousy
+Category: Secondary Emotion
+Description: Envy and comparison, longing for what others have.
+
+Gene
+84. Compassion
+Category: Secondary Emotion
+Description: Kindness and empathetic support for others' struggles.
+
+Gene
+85. Confidence
+Category: Secondary Emotion
+Description: Self-assurance and empowerment in one's abilities.
+
+Gene
+86. Admiration
+Category: Secondary Emotion
+Description: Respect and inspiration recognizing talent, effort, or extraordinary qualities.
+
+Gene
+87. Determination
+Category: Secondary Emotion
+Description: Perseverance and focused effort toward overcoming obstacles and achieving goals.
+
+Gene
+88. Grief
+Category: Secondary Emotion
+Description: Loss and sadness experienced due to mourning or sorrow.
+
+Gene
+89. Pride
+Category: Secondary Emotion
+Description: Self-worth and accomplishment reflecting on personal achievements and milestones.
+
+Gene
+90. Insecurity
+Category: Secondary Emotion
+Description: Self-doubt and anxiety when facing uncertainty or challenging situations.
+
+Gene
+91. Suspicion
+Category: Secondary Emotion
+Description: Doubt and guardedness involving questioning motives and perceiving dishonesty.
+
+Gene
+92. Envy
+Category: Secondary Emotion
+Description: Longing and desire characterized by unfavorable comparison and yearning.
+
+Gene
+93. Humiliation
+Category: Secondary Emotion
+Description: Shame and embarrassment from public failure or harsh criticism.
+
+Gene
+94. Nostalgia
+Category: Secondary Emotion
+Description: Sentimentality and warmth through reflection on cherished memories.
+
+Gene
+95. Regret
+Category: Secondary Emotion
+Description: Remorse and reflection on mistakes, missed opportunities, or poor decisions.
+
+Gene
+96. Anticipation
+Category: Secondary Emotion
+Description: Excitement and apprehension while waiting for an outcome or event.
+
+Gene
+97. Contentment
+Category: Primary Emotion
+Description: Feeling satisfied, peaceful, and quietly happy.
+
+Gene
+98. Disdain
+Category: Secondary Emotion
+Description: Contempt and disapproval in response to disliked behaviors or ideas.
+
+Gene
+99. Pity
+Category: Secondary Emotion
+Description: Empathy and compassion toward those experiencing hardship.
+
+Gene
+100. Euphoria
+Category: Primary Emotion
+Description: Extreme happiness and ecstasy, celebrating joyous moments.
+
+101. Tech Nostalgia
+•
+•
+Description: A longing for earlier technological eras or simpler times in a world
+increasingly dominated by automation.
+Example Sentence:
+o “Remember when life felt slower, and the sound of a dial-up connection
+meant adventure? I miss those days.”
+102. Digital Overwhelm
+•
+•
+Description: A state of emotional fatigue caused by excessive digital stimuli or
+information overload.
+Example Sentence:
+o “Every notification feels like an alarm—my mind’s racing, and I can’t seem
+to find the pause button.”
+103. Virtual Immersion
+•
+•
+Description: The awe and wonder experienced when entering an advanced
+virtual or augmented reality.
+Example Sentence:
+o “Stepping into this virtual world feels surreal, as if I’m touching the future
+with every movement.”
+104. Optimistic Anticipation
+•
+•
+Description: The excitement and positive expectations about an upcoming
+technological breakthrough or life-changing event.
+Example Sentence:
+o “The idea of what’s coming tomorrow fills me with a hope so powerful, I
+can almost feel the future here now.”
+105. Fear of Obsolescence
+•
+•
+Description: Anxiety about being replaced by advancing technology or feeling
+left behind in a fast-moving world.
+Example Sentence:
+o “I can’t help but wonder if there’s still a place for me when machines seem
+to be doing it all better, faster.”
+106. Future Shock
+•
+•
+Description: A feeling of disorientation caused by rapid technological and
+societal change.
+Example Sentence:
+o “Everything is evolving so quickly, I feel like I’m running to catch up with a
+world that’s already moved on.”
+107. Digital Loneliness
+•
+•
+Description: The emotional emptiness from relying too heavily on virtual
+connections over real-life interactions.
+Example Sentence:
+o “There are a hundred messages on my screen, but none of them feel like
+someone really knows me.”
+108. Empowerment Through Innovation
+•
+•
+Description: A sense of empowerment and possibility from using cutting-edge
+tools or systems.
+Example Sentence:
+o “With this technology, I feel unstoppable, as if I can accomplish things I
+only dreamed of before.”
+109. Awe of Human Progress
+•
+•
+Description: A deep admiration and pride for humanity’s ability to achieve
+groundbreaking innovations.
+Example Sentence:
+o “Seeing what we’ve built—what we’ve achieved—fills me with a sense of
+awe that’s hard to put into words.”
+110. Ethical Dilemma Over Progress
+•
+•
+Description: Inner conflict about the potential consequences of technological or
+scientific advancement.
+Example Sentence:
+o “As incredible as this innovation is, I can’t help but wonder—at what cost
+are we moving forward?”
+111. Sonder
+•
+•
+Description: The realization that every person has a complex life as vivid and
+intricate as one’s own.
+Example Sentence:o
+“I watched the stranger walk by, realizing they carry a universe of stories
+I’ll never know.”
+112. Monachopsis
+•
+•
+Description: The subtle but persistent feeling of being out of place.
+Example Sentence:
+o “No matter how hard I try, there’s always a sense that I don’t quite belong
+here.”
+113. Opia
+•
+•
+Description: The ambiguous intensity of looking someone in the eye, feeling
+vulnerable yet connected.
+Example Sentence:
+o “For a moment, our eyes met, and I felt exposed, as if they could see
+everything I was hiding.”
+114. Vemodalen
+•
+•
+Description: The frustration of knowing that everything has already been done
+yet wanting to create something unique.
+Example Sentence:
+o “Every idea feels like a shadow of something that’s come before, yet I still
+can’t stop trying.”
+115. Chrysalism
+•
+•
+Description: The calm, quiet comfort of being indoors during a thunderstorm.
+Example Sentence:
+o “Listening to the rain outside, I felt an inexplicable sense of peace wash
+over me.”
+116. Rubatosis
+•
+Description: The unsettling awareness of your own heartbeat.•
+Example Sentence:
+o “Each thud of my heart seemed louder, a reminder of how fragile life can
+be.”
+117. Nighthawk
+•
+•
+Description: The melancholy of being awake late at night, reflecting on the past.
+Example Sentence:
+o “The world was silent, yet my mind was loud, replaying memories I wished
+I could rewrite.”
+118. Mauerbauertraurigkeit
+•
+•
+Description: The inexplicable urge to push people away, even those you care
+about.
+Example Sentence:
+o “I wanted to be alone, not because I didn’t care, but because I was afraid
+they’d see the chaos inside me.”
+119. Liberosis
+•
+•
+Description: The desire to care less about things.
+Example Sentence:
+o “I longed to let go, to stop worrying about everything I couldn’t control.”
+120. Enouement
+•
+•
+Description: The bittersweetness of having arrived in the future and not being
+able to tell your past self how things turned out.
+Example Sentence:
+o “If only I could go back and tell myself that everything would be okay—
+though, perhaps, I needed to learn it for myself.”
+
+Gene
+121. Saudade
+Category:
+Description: A deep emotional state of nostalgic longing for something or someone absent, accompanied by a repressed knowledge that what is longed for might never return.
+
+Gene
+122. Sehnsucht
+Category:
+Description: An intense yearning for an unfulfilled dream or an idealized version of life.
+
+Gene
+123. Resfeber
+Category:
+Description: The restless excitement and anxiety before a journey begins.
+
+Gene
+124. Dépaysement
+Category:
+Description: The disorientation felt when in a completely foreign environment.
+
+Gene
+125. Ataraxia
+Category:
+Description: A serene state of being free from emotional disturbance and anxiety.
+
+Gene
+126. Eucatastrophe
+Category:
+Description: A sudden, unexpected turn of events that leads to a favorable outcome.
+
+Gene
+127. Sillage
+Category:
+Description: The lingering trace of someone or something that has left.
+
+Gene
+128. Natsukashii
+Category:
+Description: A nostalgic feeling triggered by a memory of the past.
+
+Gene
+129. Limerence
+Category:
+Description: The intense, involuntary state of infatuation with someone.
+
+Gene
+130. Ubuntu
+Category:
+Description: A sense of humanity and interconnectedness.
+
+Gene
+131. Meraki
+Category:
+Description: The soulful, creative effort one puts into their work.
+
+Gene
+132. Kaukokaipuu
+Category:
+Description: An intense longing for distant places, a form of wanderlust.
+
+Gene
+133. Hygge
+Category:
+Description: A feeling of coziness and contentment.
+
+Gene
+134. Mudita
+Category:
+Description: Joy derived from another's happiness.
+
+Gene
+135. Toska
+Category:
+Description: A deep, aching sense of yearning or melancholy.
+
+Gene
+136. Firgun
+Category:
+Description: Genuine, unselfish happiness for another's success.
+
+Gene
+137. Wabi-Sabi
+Category:
+Description: A Japanese aesthetic that finds beauty in imperfection and transience.
+
+Gene
+138. Yūgen
+Category:
+Description: A profound sense of the mysterious beauty of the universe.
+
+Gene
+139. Komorebi
+Category:
+Description: The sunlight filtering through leaves.
+
+Gene
+140. Sisu
+Category:
+Description: A Finnish term for resilience and determination in the face of adversity.
+
+Gene
+141. Saudade
+Category:
+Description: A deep emotional state of nostalgic longing for something or someone that one loves but is lost.
+
+Gene
+142. Sehnsucht
+Category:
+Description: An intense, life-longing yearning or craving.
+
+Gene
+143. Limerence
+Category:
+Description: The state of being infatuated or obsessed with another person, typically experienced involuntarily.
+
+Gene
+144. Mono no Aware
+Category:
+Description: A Japanese term for the awareness of the impermanence of things, and a gentle, wistful sadness at their passing.
+
+Gene
+145. Natsukashii
+Category:
+Description: A Japanese term for a nostalgic feeling of fondness for the past.
+
+Gene
+146. Acedia
+Category:
+Description: A state of listlessness or torpor, of not caring or being unable to act.
+
+Gene
+147. Ijirashii
+Category:
+Description: A Japanese term for feeling moved by someone’s admirable resilience or perseverance.
+
+Gene
+148. Ubuntu
+Category:
+Description: A Southern African term emphasizing humanity's shared connection and mutual care.
+
+Gene
+149. Sprezzatura
+Category:
+Description: Studied nonchalance, the art of making something difficult look effortless.
+
+Gene
+150. Resfeber
+Category:
+Description: The restless race of the traveler’s heart before the journey begins.
+
+Gene
+151. Yūgen
+Category:
+Description: A profound, mysterious sense of beauty and the universe that triggers deep emotional feelings.
+
+Gene
+152. Dépaysement
+Category:
+Description: The feeling of being in a foreign place and experiencing disorientation and curiosity.
+
+Gene
+153. Torschlusspanik
+Category:
+Description: The fear of time running out or opportunities slipping away.
+
+Gene
+154. Smultronställe
+Category:
+Description: A special place discovered, treasured, and returned to for solace and relaxation.
+
+Gene
+155. Nikhedonia
+Category:
+Description: The pleasure and anticipation derived from imagining success before achieving it.
+
+Gene
+156. Eunoia
+Category:
+Description: A feeling of goodwill and beautiful thinking.
+
+Gene
+157. Amae
+Category:
+Description: A Japanese term for the feeling of comfort and dependence in a trusted relationship.
+
+Gene
+158. Weltschmerz
+Category:
+Description: The melancholy feeling that arises from comparing the imperfect reality to an idealized world.
+
+Gene
+159. Mudita
+Category:
+Description: Sympathetic or unselfish joy, the happiness experienced when others succeed.
+
+Gene
+160. Pihentagyú
+Category:
+Description: A Hungarian term for quick-witted humor and intelligence.
+
+Gene
+161. Natsukashii
+Category:
+Description: A gentle happiness and longing when recalling fond memories of the past.
+
+Gene
+162. Saudade
+Category:
+Description: Deep emotional yearning for something or someone that is absent, or for a past that can never return.
+
+Gene
+163. Kaukokaipuu
+Category:
+Description: An intense longing for far-off places or adventures.
+
+Gene
+164. Sisu
+Category:
+Description: The extraordinary determination and perseverance in the face of challenges.
+
+Gene
+165. Hüzün
+Category:
+Description: A sense of collective melancholy, often felt when thinking of the past or cultural heritage.
+
+Gene
+166. Jouska
+Category:
+Description: The compulsive replaying of hypothetical conversations in one’s mind.
+
+Gene
+167. Fago
+Category:
+Description: A complex blend of love, compassion, and sadness often felt for someone suffering.
+
+Gene
+168. Pihentagyú (Creative Humor)
+Category:
+Description: A whimsical or quick-witted sense of humor, often delivering clever insights.
+
+Gene
+169. Ukiyo
+Category:
+Description: Living in the moment, detached from the troubles of life.
+
+Gene
+170. Mono No Aware
+Category:
+Description: An awareness of the impermanence of things, and a gentle, bittersweet acceptance of it.
+
+Gene
+171. Resfeber
+Category:
+Description: The mixed emotions of excitement and anxiety before embarking on a journey.
+
+Gene
+172. Limerence
+Category:
+Description: The intense feelings of infatuation and obsessive thoughts about someone.
+
+Gene
+173. Ambedo
+Category:
+Description: A melancholic trance where you become absorbed in vivid sensory details.
+
+Gene
+174. Mudita
+Category:
+Description: Genuine happiness derived from someone else’s success or joy.
+
+Gene
+175. Hiraeth
+Category:
+Description: A deep nostalgia and yearning for a home or place you can no longer return to.
+
+Gene
+176. Sehnsucht
+Category:
+Description: An intense yearning for something unattainable or distant.
+
+Gene
+177. Pronoia
+Category:
+Description: The belief that the universe is conspiring in your favor.
+
+Gene
+178. DulcineaEffect
+Category:
+Description: Romanticizing someone, often seeing them as more perfect than they are.
+
+Gene
+179. Sonder
+Category:
+Description: The realization that everyone has a life as complex and vivid as your own.
+
+Gene
+180. Chiaroscuro
+Category:
+Description: The interplay of light and dark emotions, a balance of joy and sadness.
+
+
