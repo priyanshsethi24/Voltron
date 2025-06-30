@@ -1,0 +1,17 @@
+import json
+
+speaker_metadata = {
+    "NoahLove": { "gender": "male", "sample_rate": 24000, "mic": "Neumann_U87" },
+    "EmmaSummers": { "gender": "female", "sample_rate": 24000, "mic": "Neumann_U87" },
+    "Connor": { "gender": "male", "sample_rate": 24000, "mic": "Sennheiser_MKH_416" },
+    "Jayson": { "gender": "male", "sample_rate": 24000, "mic": "Rode_NT1_A" },
+    "Edward": { "gender": "male", "sample_rate": 24000, "mic": "Neumann_TLM_103" },
+    "Julie": { "gender": "female", "sample_rate": 24000, "mic": "AKG_C414" },
+    "Natalia": { "gender": "female", "sample_rate": 24000, "mic": "Shure_SM7B" },
+    "Carrie": { "gender": "female", "sample_rate": 24000, "mic": "Electro-Voice_RE20" }
+}
+
+with open("speaker_metadata.json", "w", encoding="utf-8") as f:
+    json.dump(speaker_metadata, f, indent=4, ensure_ascii=False)
+
+print("✅ Speaker metadata saved to speaker_metadata.json")

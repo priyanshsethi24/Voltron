@@ -1,0 +1,105 @@
+Cue ID,Emotion Alignment,Usage Context,Insertion Timing
+Applause_Subtle,JoyPrimary,Expresses celebration or approval,intra-utterance
+Breath_Calm,AnxietySecondary,"Represents a breath before, during, or after speech",intra-utterance
+Breath_Deep,AnxietySecondary,"Represents a breath before, during, or after speech",intra-utterance
+Breath_Heavy,AnxietySecondary,"Represents a breath before, during, or after speech",intra-utterance
+Chatter_Teeth_Cold,AnxietySecondary,Expresses discomfort due to cold or shivering,intra-utterance
+Chatter_Teeth_Shivering,AnxietySecondary,Expresses discomfort due to cold or shivering,intra-utterance
+Cheer_Enthusiastic,JoyPrimary,Expresses celebration or approval,post-utterance
+Cheer_Excited,JoyPrimary,Expresses celebration or approval,post-utterance
+Clap_Playful,JoyPrimary,Expresses celebration or approval,post-utterance
+Clap_Slow,JoyPrimary,Expresses celebration or approval,post-utterance
+Click_Disapproval,DisapprovalSecondary,Clicking sound indicating disapproval or pondering,pre-utterance
+Click_Pondering,DisapprovalSecondary,Clicking sound indicating disapproval or pondering,pre-utterance
+Cough_Light,DisgustSecondary,Clears throat or cough for emphasis or interruption,intra-utterance
+Cough_Playful,DisgustSecondary,Clears throat or cough for emphasis or interruption,intra-utterance
+Cough_Polite,DisgustSecondary,Clears throat or cough for emphasis or interruption,intra-utterance
+Cry_Frustrated,SadnessPrimary,Expresses crying or emotional response,intra-utterance
+Cry_Joy,SadnessPrimary,Expresses crying or emotional response,intra-utterance
+Exhale_Nervous,AnxietySecondary,"Represents a breath before, during, or after speech",intra-utterance
+Exhale_Relief,AnxietySecondary,"Represents a breath before, during, or after speech",intra-utterance
+Exhale_Surprise,AnxietySecondary,"Represents a breath before, during, or after speech",intra-utterance
+Gasp_Amazement,"SurprisePrimary, FearPrimary",Sharp intake of breath indicating surprise or shock,pre-utterance
+Gasp_Dramatic,"SurprisePrimary, FearPrimary",Sharp intake of breath indicating surprise or shock,pre-utterance
+Gasp_Joyful,"SurprisePrimary, FearPrimary",Sharp intake of breath indicating surprise or shock,pre-utterance
+Gasp_Mild,"SurprisePrimary, FearPrimary",Sharp intake of breath indicating surprise or shock,pre-utterance
+Gasp_Overwhelmed,"SurprisePrimary, FearPrimary",Sharp intake of breath indicating surprise or shock,pre-utterance
+Gasp_Realization,"SurprisePrimary, FearPrimary",Sharp intake of breath indicating surprise or shock,pre-utterance
+Gasp_Shock,"SurprisePrimary, FearPrimary",Sharp intake of breath indicating surprise or shock,pre-utterance
+Gasp_Shocked,"SurprisePrimary, FearPrimary",Sharp intake of breath indicating surprise or shock,pre-utterance
+Gasp_Surprised,"SurprisePrimary, FearPrimary",Sharp intake of breath indicating surprise or shock,pre-utterance
+Gasp_Surprised_Delight,"SurprisePrimary, FearPrimary",Sharp intake of breath indicating surprise or shock,pre-utterance
+Groan_Annoyed,DisgustPrimary,Expresses annoyance or approval,intra-utterance
+Groan_Exasperated,DisgustPrimary,Expresses annoyance or approval,intra-utterance
+Groggy_Confused,FatigueSecondary,Expresses grogginess or sleepiness,intra-utterance
+Groggy_Sleepy,FatigueSecondary,Expresses grogginess or sleepiness,intra-utterance
+Groggy_Unfocused,FatigueSecondary,Expresses grogginess or sleepiness,intra-utterance
+Grunt_Agreement,DisgustPrimary,Expresses annoyance or approval,intra-utterance
+Grunt_Approval,DisgustPrimary,Expresses annoyance or approval,intra-utterance
+Grunt_Irritated,DisgustPrimary,Expresses annoyance or approval,intra-utterance
+Hiccup,SurpriseSecondary,Involuntary reaction or surprise,pre-utterance
+Hum_Agreement,ContemplationSecondary,Expresses agreement or contemplation,intra-utterance
+Hum_Tune,ContemplationSecondary,Expresses agreement or contemplation,intra-utterance
+Imitative_Explosion,SurpriseSecondary,Mimics a sound effect,intra-utterance
+Imitative_Horn,SurpriseSecondary,Mimics a sound effect,intra-utterance
+Imitative_Tapping,SurpriseSecondary,Mimics a sound effect,intra-utterance
+Inhale_Quick,AnxietySecondary,"Represents a breath before, during, or after speech",intra-utterance
+Laughter_Disbelief,"JoyPrimary, AmusementSecondary",Expresses amusement or laughter after something funny,post-utterance
+Laughter_Hearty,"JoyPrimary, AmusementSecondary",Expresses amusement or laughter after something funny,post-utterance
+Laughter_Nervous,"JoyPrimary, AmusementSecondary",Expresses amusement or laughter after something funny,post-utterance
+Laughter_Playful,"JoyPrimary, AmusementSecondary",Expresses amusement or laughter after something funny,post-utterance
+Laughter_Polite,"JoyPrimary, AmusementSecondary",Expresses amusement or laughter after something funny,post-utterance
+Laughter_Quick,"JoyPrimary, AmusementSecondary",Expresses amusement or laughter after something funny,post-utterance
+Laughter_Soft_Chuckle,"JoyPrimary, AmusementSecondary",Expresses amusement or laughter after something funny,post-utterance
+Laughter_Speaking,"JoyPrimary, AmusementSecondary",Expresses amusement or laughter after something funny,post-utterance
+Laughter_Surprised,"JoyPrimary, AmusementSecondary",Expresses amusement or laughter after something funny,post-utterance
+Lip_Smack,ContemplationSecondary,Expresses enjoyment or anticipation when tasting something,intra-utterance
+Moan_Content,DisgustPrimary,Expresses annoyance or approval,intra-utterance
+Moan_Doubtful,DisgustPrimary,Expresses annoyance or approval,intra-utterance
+Murmur_Pondering,ContemplationSecondary,Expresses agreement or contemplation,intra-utterance
+Murmur_Soft,ContemplationSecondary,Expresses agreement or contemplation,intra-utterance
+Murmur_Uncertain,ContemplationSecondary,Expresses agreement or contemplation,intra-utterance
+Nonverbal_Affirmation,AgreementPrimary,Expresses affirmation or agreement,intra-utterance
+Nonverbal_Approval,AgreementPrimary,Expresses affirmation or agreement,intra-utterance
+Nonverbal_Disagree,DisapprovalSecondary,Expresses disapproval or skepticism,intra-utterance
+Nonverbal_Disapproval,DisapprovalSecondary,Expresses disapproval or skepticism,intra-utterance
+Nonverbal_Quick_Agree,AgreementPrimary,Expresses affirmation or agreement,intra-utterance
+Nonverbal_Skeptical,DisapprovalSecondary,Expresses disapproval or skepticism,intra-utterance
+Pause_Natural,AnxietySecondary,Indicates a thoughtful or natural pause,intra-utterance
+Pause_Pondering,AnxietySecondary,Indicates a thoughtful or natural pause,intra-utterance
+Pause_Realization,AnxietySecondary,Indicates a thoughtful or natural pause,intra-utterance
+Pause_Reflective,AnxietySecondary,Indicates a thoughtful or natural pause,intra-utterance
+Pause_Thoughtful,AnxietySecondary,Indicates a thoughtful or natural pause,intra-utterance
+Pop_Surprised,SurprisePrimary,Popping sound indicating surprise,intra-utterance
+Shiver_Cold,DisgustPrimary,"Expresses cold, fear, or chills",intra-utterance
+Shiver_Fearful,DisgustPrimary,"Expresses cold, fear, or chills",intra-utterance
+Shudder_Disgust,DisgustPrimary,"Expresses cold, fear, or chills",intra-utterance
+Shush,ContemplationSecondary,"Requests silence or confidentiality,pre-utterance",pre-utterance
+Sigh_Bored,"SadnessSecondary, ReliefPrimary","Expresses sadness, relief, or exasperation",post-utterance
+Sigh_Contented,"SadnessSecondary, ReliefPrimary","Expresses sadness, relief, or exasperation",post-utterance
+Sigh_Determined,"SadnessSecondary, ReliefPrimary","Expresses sadness, relief, or exasperation",post-utterance
+Sigh_Exasperated,"SadnessSecondary, ReliefPrimary","Expresses sadness, relief, or exasperation",post-utterance
+Sigh_Frustrated,"SadnessSecondary, ReliefPrimary","Expresses sadness, relief, or exasperation",post-utterance
+Sigh_Realization,"SadnessSecondary, ReliefPrimary","Expresses sadness, relief, or exasperation",post-utterance
+Sigh_Reflective,"SadnessSecondary, ReliefPrimary","Expresses sadness, relief, or exasperation",post-utterance
+Sigh_Regretful,"SadnessSecondary, ReliefPrimary","Expresses sadness, relief, or exasperation",post-utterance
+Sigh_Relieved,"SadnessSecondary, ReliefPrimary","Expresses sadness, relief, or exasperation",post-utterance
+Sigh_Resigned,"SadnessSecondary, ReliefPrimary","Expresses sadness, relief, or exasperation",post-utterance
+Sneeze_Loud,SurprisePrimary,Represents a sneeze,intra-utterance
+Sneeze_Polite,SurprisePrimary,Represents a sneeze,intra-utterance
+Sneeze_With_Sniffles,SurprisePrimary,Represents a sneeze,intra-utterance
+Sniffle_Emotional,SadnessPrimary,Expresses crying or emotional response,intra-utterance
+Snort_Amused,DisbeliefSecondary,Brief nasal sound expressing doubt or mockery,intra-utterance
+Snort_Skeptical,DisbeliefSecondary,Brief nasal sound expressing doubt or mockery,intra-utterance
+Snort_Surprised,DisbeliefSecondary,Brief nasal sound expressing doubt or mockery,intra-utterance
+Sob_Light,SadnessPrimary,Expresses crying or emotional response,intra-utterance
+Tear_Up,SadnessPrimary,Expresses crying or emotional response,intra-utterance
+Throat_Clear_Nervous,DisgustSecondary,Clears throat or cough for emphasis or interruption,intra-utterance
+Throat_Clear_Preparing,DisgustSecondary,Clears throat or cough for emphasis or interruption,intra-utterance
+Whisper_Alert,ContemplationSecondary,Soft voice indicating secrecy or confidentiality,intra-utterance
+Whisper_Confidential,ContemplationSecondary,Soft voice indicating secrecy or confidentiality,intra-utterance
+Whisper_Secretive,ContemplationSecondary,Soft voice indicating secrecy or confidentiality,intra-utterance
+Whistle_Playful,JoyPrimary,Expresses playful or lighthearted approval or greeting,post-utterance
+Yawn_Bored,TirednessSecondary,Indicates tiredness or boredom,intra-utterance
+Yawn_Exhausted,TirednessSecondary,Indicates tiredness or boredom,intra-utterance
+Yawn_Interrupted,TirednessSecondary,Indicates tiredness or boredom,intra-utterance
