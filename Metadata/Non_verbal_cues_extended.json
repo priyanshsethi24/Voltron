@@ -1,0 +1,6091 @@
+{
+    "BreathDeep_Carrie": {
+        "description": "Sound of Breath Deep.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/BreathDeep/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.2
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.2
+        },
+        "amplitude_range": {
+            "min": -0.929,
+            "max": 0.827
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1331.27,
+            "time_jitter_pct": 31.12
+        },
+        "transcript_marker": "Breath",
+        "usage_context": "Represents a breath before, during, or after speech",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "MoanDoubtful_Carrie": {
+        "description": "Sound of Moan Doubtful.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/MoanDoubtful/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.847,
+            "max": 0.986
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 957.19,
+            "time_jitter_pct": 23.08
+        },
+        "transcript_marker": "Moan",
+        "usage_context": "Expresses annoyance or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "SnortSurprised_Carrie": {
+        "description": "Sound of Snort Surprised.",
+        "probability_weight": 0.0046,
+        "file_path": "female/nonverbal_cues/SnortSurprised/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.42
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.42
+        },
+        "amplitude_range": {
+            "min": -0.994,
+            "max": 0.635
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1279.03,
+            "time_jitter_pct": 20.25
+        },
+        "transcript_marker": "Snort",
+        "usage_context": "Brief nasal sound expressing doubt or mockery",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisbeliefSecondary"
+        ]
+    },
+    "GaspDramatic_Carrie2": {
+        "description": "Sound of Gasp Dramatic.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/GaspDramatic/Carrie2.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.55
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.55
+        },
+        "amplitude_range": {
+            "min": -0.971,
+            "max": 0.808
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1222.16,
+            "time_jitter_pct": 30.4
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "GaspDramatic_Carrie1": {
+        "description": "Sound of Gasp Dramatic.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/GaspDramatic/Carrie1.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.972,
+            "max": 0.939
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1107.49,
+            "time_jitter_pct": 34.07
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "GroggyUnfocused_Carrie": {
+        "description": "Sound of Groggy Unfocused.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/GroggyUnfocused/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.46
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.46
+        },
+        "amplitude_range": {
+            "min": -0.994,
+            "max": 0.76
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 969.01,
+            "time_jitter_pct": 25.48
+        },
+        "transcript_marker": "Groggy",
+        "usage_context": "Expresses grogginess or sleepiness",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "FatigueSecondary"
+        ]
+    },
+    "GaspShock_Carrie2": {
+        "description": "Sound of Gasp Shock.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/GaspShock/Carrie2.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.882,
+            "max": 0.963
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1278.9,
+            "time_jitter_pct": 29.26
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "GaspShock_Carrie1": {
+        "description": "Sound of Gasp Shock.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/GaspShock/Carrie1.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.14
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.14
+        },
+        "amplitude_range": {
+            "min": -0.894,
+            "max": 0.947
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1141.3,
+            "time_jitter_pct": 28.87
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "BreathHeavy_Carrie": {
+        "description": "Sound of Breath Heavy.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/BreathHeavy/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.46
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.46
+        },
+        "amplitude_range": {
+            "min": -0.943,
+            "max": 1.019
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1257.09,
+            "time_jitter_pct": 23.59
+        },
+        "transcript_marker": "Breath",
+        "usage_context": "Represents a breath before, during, or after speech",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "LaughterPlayful_Carrie": {
+        "description": "Sound of Laughter Playful.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/LaughterPlayful/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.986,
+            "max": 0.752
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1324.63,
+            "time_jitter_pct": 22.4
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "ExhaleNervous_Carrie": {
+        "description": "Sound of Exhale Nervous.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/ExhaleNervous/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.67,
+            "max": 0.888
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 982.86,
+            "time_jitter_pct": 21.89
+        },
+        "transcript_marker": "Exhale",
+        "usage_context": "Represents a breath before, during, or after speech",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "LaughterDisbelief_Carrie": {
+        "description": "Sound of Laughter Disbelief.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/LaughterDisbelief/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.15
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.15
+        },
+        "amplitude_range": {
+            "min": -0.813,
+            "max": 0.985
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1087.65,
+            "time_jitter_pct": 28.76
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "SighRegretful_Carrie": {
+        "description": "Sound of Sigh Regretful.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/SighRegretful/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.22
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.22
+        },
+        "amplitude_range": {
+            "min": -0.79,
+            "max": 0.974
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1317.16,
+            "time_jitter_pct": 20.06
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "TearUp_Carrie": {
+        "description": "Sound of Tear Up.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/TearUp/Carrie.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.777,
+            "max": 0.986
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1355.84,
+            "time_jitter_pct": 30.88
+        },
+        "transcript_marker": "Tear",
+        "usage_context": "Expresses crying or emotional response",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SadnessPrimary"
+        ]
+    },
+    "CoughPolite_Carrie": {
+        "description": "Sound of Cough Polite.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/CoughPolite/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.799,
+            "max": 0.958
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1367.86,
+            "time_jitter_pct": 26.28
+        },
+        "transcript_marker": "Cough",
+        "usage_context": "Clears throat or cough for emphasis or interruption",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustSecondary"
+        ]
+    },
+    "SighFrustrated_Carrie2": {
+        "description": "Sound of Sigh Frustrated.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/SighFrustrated/Carrie2.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.13
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.13
+        },
+        "amplitude_range": {
+            "min": -0.977,
+            "max": 0.928
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1252.73,
+            "time_jitter_pct": 33.29
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "SighFrustrated_Carrie1": {
+        "description": "Sound of Sigh Frustrated.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/SighFrustrated/Carrie1.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.46
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.46
+        },
+        "amplitude_range": {
+            "min": -0.946,
+            "max": 0.843
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1280.22,
+            "time_jitter_pct": 25.09
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "GroanAnnoyed_Carrie": {
+        "description": "Sound of Groan Annoyed.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/GroanAnnoyed/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.05
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.05
+        },
+        "amplitude_range": {
+            "min": -0.988,
+            "max": 0.872
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1431.83,
+            "time_jitter_pct": 25.18
+        },
+        "transcript_marker": "Groan",
+        "usage_context": "Expresses annoyance or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "WhisperAlert_Carrie": {
+        "description": "Sound of Whisper Alert.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/WhisperAlert/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -1.072,
+            "max": 0.96
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 958.41,
+            "time_jitter_pct": 26.05
+        },
+        "transcript_marker": "Whisper",
+        "usage_context": "Soft voice indicating secrecy or confidentiality",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "SighExasperated_Carrie": {
+        "description": "Sound of Sigh Exasperated.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/SighExasperated/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.01
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.01
+        },
+        "amplitude_range": {
+            "min": -1.014,
+            "max": 0.861
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1230.1,
+            "time_jitter_pct": 26.43
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "GroanExasperated_Carrie": {
+        "description": "Sound of Groan Exasperated.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/GroanExasperated/Carrie.wav",
+        "prosody_hint": "crescendo around 75% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.06
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.06
+        },
+        "amplitude_range": {
+            "min": -0.846,
+            "max": 0.983
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1319.83,
+            "time_jitter_pct": 19.68
+        },
+        "transcript_marker": "Groan",
+        "usage_context": "Expresses annoyance or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "YawnBored_Carrie": {
+        "description": "Sound of Yawn Bored.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/YawnBored/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.46
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.46
+        },
+        "amplitude_range": {
+            "min": -0.827,
+            "max": 0.983
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1340.07,
+            "time_jitter_pct": 28.3
+        },
+        "transcript_marker": "Yawn",
+        "usage_context": "Indicates tiredness or boredom",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "TirednessSecondary"
+        ]
+    },
+    "ClickPondering_Carrie": {
+        "description": "Sound of Click Pondering.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/ClickPondering/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.04
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.04
+        },
+        "amplitude_range": {
+            "min": -0.971,
+            "max": 0.821
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 886.79,
+            "time_jitter_pct": 20.2
+        },
+        "transcript_marker": "Click",
+        "usage_context": "Clicking sound indicating disapproval or pondering",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "DisapprovalSecondary"
+        ]
+    },
+    "LaughterSoftChuckle_Carrie2": {
+        "description": "Sound of Laughter Soft Chuckle.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/LaughterSoftChuckle/Carrie2.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -1.005,
+            "max": 0.889
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1103.65,
+            "time_jitter_pct": 23.33
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "LaughterSoftChuckle_Carrie1": {
+        "description": "Sound of Laughter Soft Chuckle.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/LaughterSoftChuckle/Carrie1.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.86
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.86
+        },
+        "amplitude_range": {
+            "min": -0.991,
+            "max": 0.713
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1068.5,
+            "time_jitter_pct": 19.72
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "SniffleEmotional_Carrie": {
+        "description": "Sound of Sniffle Emotional.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/SniffleEmotional/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.8
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.8
+        },
+        "amplitude_range": {
+            "min": -0.914,
+            "max": 0.792
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1412.78,
+            "time_jitter_pct": 31.1
+        },
+        "transcript_marker": "Sniffle",
+        "usage_context": "Expresses crying or emotional response",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SadnessPrimary"
+        ]
+    },
+    "LaughterHearty_Carrie2": {
+        "description": "Sound of Laughter Hearty.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/LaughterHearty/Carrie2.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.46
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.46
+        },
+        "amplitude_range": {
+            "min": -0.99,
+            "max": 0.981
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 900.66,
+            "time_jitter_pct": 19.29
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "LaughterHearty_Carrie1": {
+        "description": "Sound of Laughter Hearty.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/LaughterHearty/Carrie1.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 5.14
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 5.14
+        },
+        "amplitude_range": {
+            "min": -0.988,
+            "max": 0.818
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1022.28,
+            "time_jitter_pct": 20.4
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "LaughterQuick_Carrie": {
+        "description": "Sound of Laughter Quick.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/LaughterQuick/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.982,
+            "max": 0.764
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1258.34,
+            "time_jitter_pct": 22.9
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "ThroatClearPreparing_Carrie2": {
+        "description": "Sound of Throat Clear Preparing.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/ThroatClearPreparing/Carrie2.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.963,
+            "max": 0.917
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1438.19,
+            "time_jitter_pct": 24.37
+        },
+        "transcript_marker": "Throat",
+        "usage_context": "Clears throat or cough for emphasis or interruption",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustSecondary"
+        ]
+    },
+    "ThroatClearPreparing_Carrie1": {
+        "description": "Sound of Throat Clear Preparing.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/ThroatClearPreparing/Carrie1.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.04
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.04
+        },
+        "amplitude_range": {
+            "min": -0.932,
+            "max": 0.661
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1514.11,
+            "time_jitter_pct": 26.28
+        },
+        "transcript_marker": "Throat",
+        "usage_context": "Clears throat or cough for emphasis or interruption",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustSecondary"
+        ]
+    },
+    "ExhaleRelief_Carrie": {
+        "description": "Sound of Exhale Relief.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/ExhaleRelief/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.46
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.46
+        },
+        "amplitude_range": {
+            "min": -0.743,
+            "max": 0.958
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1144.8,
+            "time_jitter_pct": 21.74
+        },
+        "transcript_marker": "Exhale",
+        "usage_context": "Represents a breath before, during, or after speech",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "BreathCalm_Carrie": {
+        "description": "Sound of Breath Calm.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/BreathCalm/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.26
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.26
+        },
+        "amplitude_range": {
+            "min": -0.94,
+            "max": 0.882
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1159.44,
+            "time_jitter_pct": 20.38
+        },
+        "transcript_marker": "Breath",
+        "usage_context": "Represents a breath before, during, or after speech",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "Hiccup_Carrie": {
+        "description": "Sound of Hiccup.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/Hiccup/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.56
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.56
+        },
+        "amplitude_range": {
+            "min": -0.995,
+            "max": 0.739
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1232.85,
+            "time_jitter_pct": 22.46
+        },
+        "transcript_marker": "Hiccup",
+        "usage_context": "Involuntary reaction or surprise",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurpriseSecondary"
+        ]
+    },
+    "MoanContent_Carrie": {
+        "description": "Sound of Moan Content.",
+        "probability_weight": 0.0046,
+        "file_path": "female/nonverbal_cues/MoanContent/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.941,
+            "max": 0.983
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1559.19,
+            "time_jitter_pct": 33.33
+        },
+        "transcript_marker": "Moan",
+        "usage_context": "Expresses annoyance or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "ExhaleSurprise_Carrie": {
+        "description": "Sound of Exhale Surprise.",
+        "probability_weight": 0.0046,
+        "file_path": "female/nonverbal_cues/ExhaleSurprise/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.841,
+            "max": 0.975
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1107.08,
+            "time_jitter_pct": 18.82
+        },
+        "transcript_marker": "Exhale",
+        "usage_context": "Represents a breath before, during, or after speech",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "ThroatClearNervous_Carrie": {
+        "description": "Sound of Throat Clear Nervous.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/ThroatClearNervous/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.985,
+            "max": 0.829
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1538.41,
+            "time_jitter_pct": 27.86
+        },
+        "transcript_marker": "Throat",
+        "usage_context": "Clears throat or cough for emphasis or interruption",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustSecondary"
+        ]
+    },
+    "GaspMild_Carrie": {
+        "description": "Sound of Gasp Mild.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/GaspMild/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.82
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.82
+        },
+        "amplitude_range": {
+            "min": -0.982,
+            "max": 0.88
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1317.47,
+            "time_jitter_pct": 23.0
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "NonverbalApproval_Carrie": {
+        "description": "Sound of Nonverbal Approval.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/NonverbalApproval/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.23
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.23
+        },
+        "amplitude_range": {
+            "min": -0.985,
+            "max": 0.656
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1040.84,
+            "time_jitter_pct": 29.03
+        },
+        "transcript_marker": "Nonverbal",
+        "usage_context": "Expresses affirmation or agreement",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AgreementPrimary"
+        ]
+    },
+    "SighResigned_Carrie": {
+        "description": "Sound of Sigh Resigned.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/SighResigned/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.46
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.46
+        },
+        "amplitude_range": {
+            "min": -0.894,
+            "max": 0.953
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1248.68,
+            "time_jitter_pct": 17.46
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "WhisperSecretive_Carrie": {
+        "description": "Sound of Whisper Secretive.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/WhisperSecretive/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.99
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.99
+        },
+        "amplitude_range": {
+            "min": -0.865,
+            "max": 0.877
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1198.35,
+            "time_jitter_pct": 27.07
+        },
+        "transcript_marker": "Whisper",
+        "usage_context": "Soft voice indicating secrecy or confidentiality",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "SneezePolite_Carrie": {
+        "description": "Sound of Sneeze Polite.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/SneezePolite/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.11
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.11
+        },
+        "amplitude_range": {
+            "min": -0.878,
+            "max": 0.967
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1225.04,
+            "time_jitter_pct": 16.55
+        },
+        "transcript_marker": "Sneeze",
+        "usage_context": "Represents a sneeze",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary"
+        ]
+    },
+    "SobLight_Carrie": {
+        "description": "Sound of Sob Light.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/SobLight/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.994,
+            "max": 0.962
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1232.2,
+            "time_jitter_pct": 23.03
+        },
+        "transcript_marker": "Sob",
+        "usage_context": "Expresses crying or emotional response",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SadnessPrimary"
+        ]
+    },
+    "WhisperConfidential_Carrie": {
+        "description": "Sound of Whisper Confidential.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/WhisperConfidential/Carrie.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.726,
+            "max": 0.926
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1020.86,
+            "time_jitter_pct": 25.93
+        },
+        "transcript_marker": "Whisper",
+        "usage_context": "Soft voice indicating secrecy or confidentiality",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "CoughPlayful_Carrie": {
+        "description": "Sound of Cough Playful.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/CoughPlayful/Carrie.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.98,
+            "max": 0.63
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1216.04,
+            "time_jitter_pct": 21.15
+        },
+        "transcript_marker": "Cough",
+        "usage_context": "Clears throat or cough for emphasis or interruption",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustSecondary"
+        ]
+    },
+    "NonverbalQuickAgree_Carrie": {
+        "description": "Sound of Nonverbal Quick Agree.",
+        "probability_weight": 0.0046,
+        "file_path": "female/nonverbal_cues/NonverbalQuickAgree/Carrie.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.48
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.48
+        },
+        "amplitude_range": {
+            "min": -0.99,
+            "max": 0.784
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1543.17,
+            "time_jitter_pct": 39.7
+        },
+        "transcript_marker": "Nonverbal",
+        "usage_context": "Expresses affirmation or agreement",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AgreementPrimary"
+        ]
+    },
+    "GroggySleepy_Carrie": {
+        "description": "Sound of Groggy Sleepy.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/GroggySleepy/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.46
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.46
+        },
+        "amplitude_range": {
+            "min": -0.99,
+            "max": 0.77
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 987.52,
+            "time_jitter_pct": 29.78
+        },
+        "transcript_marker": "Groggy",
+        "usage_context": "Expresses grogginess or sleepiness",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "FatigueSecondary"
+        ]
+    },
+    "ChatterTeethShivering_Carrie": {
+        "description": "Sound of Chatter Teeth Shivering.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/ChatterTeethShivering/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.46
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.46
+        },
+        "amplitude_range": {
+            "min": -0.804,
+            "max": 0.633
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1281.83,
+            "time_jitter_pct": 24.15
+        },
+        "transcript_marker": "Chatter",
+        "usage_context": "Expresses discomfort due to cold or shivering",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "HumTune_Carrie": {
+        "description": "Sound of Hum Tune.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/HumTune/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.19
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.19
+        },
+        "amplitude_range": {
+            "min": -0.985,
+            "max": 0.963
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1468.68,
+            "time_jitter_pct": 25.77
+        },
+        "transcript_marker": "Hum",
+        "usage_context": "Expresses agreement or contemplation",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "HumAgreement_Carrie2": {
+        "description": "Sound of Hum Agreement.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/HumAgreement/Carrie2.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.991,
+            "max": 0.823
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 687.85,
+            "time_jitter_pct": 33.8
+        },
+        "transcript_marker": "Hum",
+        "usage_context": "Expresses agreement or contemplation",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "HumAgreement_Carrie1": {
+        "description": "Sound of Hum Agreement.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/HumAgreement/Carrie1.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.985,
+            "max": 0.632
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 645.35,
+            "time_jitter_pct": 37.71
+        },
+        "transcript_marker": "Hum",
+        "usage_context": "Expresses agreement or contemplation",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "GruntIrritated_Carrie": {
+        "description": "Sound of Grunt Irritated.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/GruntIrritated/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.86
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.86
+        },
+        "amplitude_range": {
+            "min": -0.998,
+            "max": 0.735
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1332.1,
+            "time_jitter_pct": 31.89
+        },
+        "transcript_marker": "Grunt",
+        "usage_context": "Expresses annoyance or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "YawnInterrupted_Carrie": {
+        "description": "Sound of Yawn Interrupted.",
+        "probability_weight": 0.0046,
+        "file_path": "female/nonverbal_cues/YawnInterrupted/Carrie.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.46
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.46
+        },
+        "amplitude_range": {
+            "min": -0.958,
+            "max": 0.938
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1324.0,
+            "time_jitter_pct": 24.1
+        },
+        "transcript_marker": "Yawn",
+        "usage_context": "Indicates tiredness or boredom",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "TirednessSecondary"
+        ]
+    },
+    "ShudderDisgust_Carrie": {
+        "description": "Sound of Shudder Disgust.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/ShudderDisgust/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.7
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.7
+        },
+        "amplitude_range": {
+            "min": -0.895,
+            "max": 0.957
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1413.97,
+            "time_jitter_pct": 23.27
+        },
+        "transcript_marker": "Shudder",
+        "usage_context": "Expresses cold, fear, or chills",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "SnortAmused2_Carrie": {
+        "description": "Sound of Snort Amused2.",
+        "probability_weight": 0.0046,
+        "file_path": "female/nonverbal_cues/SnortAmused2/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.87
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.87
+        },
+        "amplitude_range": {
+            "min": -0.988,
+            "max": 0.749
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1562.41,
+            "time_jitter_pct": 28.38
+        },
+        "transcript_marker": "Snort"
+    },
+    "WhistlePlayful_Carrie": {
+        "description": "Sound of Whistle Playful.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/WhistlePlayful/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.94
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.94
+        },
+        "amplitude_range": {
+            "min": -0.966,
+            "max": 0.989
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 323.73,
+            "time_jitter_pct": 29.37
+        },
+        "transcript_marker": "Whistle",
+        "usage_context": "Expresses playful or lighthearted approval or greeting",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary"
+        ]
+    },
+    "SneezeWithSniffles_Carrie": {
+        "description": "Sound of Sneeze With Sniffles.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/SneezeWithSniffles/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 28.23
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 28.23
+        },
+        "amplitude_range": {
+            "min": -0.946,
+            "max": 1.126
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1367.45,
+            "time_jitter_pct": 10.08
+        },
+        "transcript_marker": "Sneeze",
+        "usage_context": "Represents a sneeze",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary"
+        ]
+    },
+    "SighContented_Carrie": {
+        "description": "Sound of Sigh Contented.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/SighContented/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.46
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.46
+        },
+        "amplitude_range": {
+            "min": -0.843,
+            "max": 0.985
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 902.2,
+            "time_jitter_pct": 31.82
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "ClapSlow_Carrie": {
+        "description": "Sound of Clap Slow.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/ClapSlow/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 5.6
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 5.6
+        },
+        "amplitude_range": {
+            "min": -1.06,
+            "max": 0.997
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1815.9,
+            "time_jitter_pct": 19.79
+        },
+        "transcript_marker": "Clap",
+        "usage_context": "Expresses celebration or approval",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary"
+        ]
+    },
+    "GroggyConfused_Carrie": {
+        "description": "Sound of Groggy Confused.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/GroggyConfused/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 5.94
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 5.94
+        },
+        "amplitude_range": {
+            "min": -1.004,
+            "max": 0.965
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1360.19,
+            "time_jitter_pct": 27.22
+        },
+        "transcript_marker": "Groggy",
+        "usage_context": "Expresses grogginess or sleepiness",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "FatigueSecondary"
+        ]
+    },
+    "CheerExcited_Carrie2": {
+        "description": "Sound of Cheer Excited.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/CheerExcited/Carrie2.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.829,
+            "max": 0.992
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1095.57,
+            "time_jitter_pct": 36.81
+        },
+        "transcript_marker": "Cheer",
+        "usage_context": "Expresses celebration or approval",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary"
+        ]
+    },
+    "CheerExcited_Carrie1": {
+        "description": "Sound of Cheer Excited.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/CheerExcited/Carrie1.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.985,
+            "max": 0.924
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1120.76,
+            "time_jitter_pct": 26.23
+        },
+        "transcript_marker": "Cheer",
+        "usage_context": "Expresses celebration or approval",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary"
+        ]
+    },
+    "SighReflective_Carrie": {
+        "description": "Sound of Sigh Reflective.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/SighReflective/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 5.11
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 5.11
+        },
+        "amplitude_range": {
+            "min": -0.814,
+            "max": 0.773
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1161.06,
+            "time_jitter_pct": 22.55
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "InhaleQuick_Carrie2": {
+        "description": "Sound of Inhale Quick.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/InhaleQuick/Carrie2.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.04
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.04
+        },
+        "amplitude_range": {
+            "min": -0.912,
+            "max": 1.006
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1315.44,
+            "time_jitter_pct": 26.22
+        },
+        "transcript_marker": "Inhale",
+        "usage_context": "Represents a breath before, during, or after speech",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "InhaleQuick_Carrie1": {
+        "description": "Sound of Inhale Quick.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/InhaleQuick/Carrie1.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.93
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.93
+        },
+        "amplitude_range": {
+            "min": -0.942,
+            "max": 0.845
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1300.5,
+            "time_jitter_pct": 24.17
+        },
+        "transcript_marker": "Inhale",
+        "usage_context": "Represents a breath before, during, or after speech",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "SneezeLoud_Carrie": {
+        "description": "Sound of Sneeze Loud.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/SneezeLoud/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -1.159,
+            "max": 1.179
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1373.69,
+            "time_jitter_pct": 22.57
+        },
+        "transcript_marker": "Sneeze",
+        "usage_context": "Represents a sneeze",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary"
+        ]
+    },
+    "SighRelieved_Carrie": {
+        "description": "Sound of Sigh Relieved.",
+        "probability_weight": 0.0046,
+        "file_path": "female/nonverbal_cues/SighRelieved/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.47
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.47
+        },
+        "amplitude_range": {
+            "min": -0.841,
+            "max": 0.977
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1574.99,
+            "time_jitter_pct": 27.11
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "NonverbalDisapproval_Carrie": {
+        "description": "Sound of Nonverbal Disapproval.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/NonverbalDisapproval/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.875,
+            "max": 0.703
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1029.73,
+            "time_jitter_pct": 19.27
+        },
+        "transcript_marker": "Nonverbal",
+        "usage_context": "Expresses disapproval or skepticism",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisapprovalSecondary"
+        ]
+    },
+    "ClapPlayful_Carrie": {
+        "description": "Sound of Clap Playful.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/ClapPlayful/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.908,
+            "max": 1.18
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1650.0,
+            "time_jitter_pct": 29.65
+        },
+        "transcript_marker": "Clap",
+        "usage_context": "Expresses celebration or approval",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary"
+        ]
+    },
+    "LaughterNervous_Carrie": {
+        "description": "Sound of Laughter Nervous.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/LaughterNervous/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.29
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.29
+        },
+        "amplitude_range": {
+            "min": -0.991,
+            "max": 0.694
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1288.0,
+            "time_jitter_pct": 33.97
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "LipSmack_Carrie": {
+        "description": "Sound of Lip Smack.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/LipSmack/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.61
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.61
+        },
+        "amplitude_range": {
+            "min": -0.908,
+            "max": 0.677
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 919.23,
+            "time_jitter_pct": 17.76
+        },
+        "transcript_marker": "Lip",
+        "usage_context": "Expresses enjoyment or anticipation when tasting something",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "GaspJoyful_Carrie": {
+        "description": "Sound of Gasp Joyful.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/GaspJoyful/Carrie.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.951,
+            "max": 0.937
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1150.36,
+            "time_jitter_pct": 29.12
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "MurmurSoft_Carrie": {
+        "description": "Sound of Murmur Soft.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/MurmurSoft/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.987,
+            "max": 0.899
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 933.51,
+            "time_jitter_pct": 24.18
+        },
+        "transcript_marker": "Murmur",
+        "usage_context": "Expresses agreement or contemplation",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "Shush_Carrie": {
+        "description": "Sound of Shush.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/Shush/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.892,
+            "max": 0.948
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 552.3,
+            "time_jitter_pct": 36.96
+        },
+        "transcript_marker": "Shush",
+        "usage_context": "Requests silence or confidentiality,pre-utterance",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "YawnExhausted_Carrie2": {
+        "description": "Sound of Yawn Exhausted.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/YawnExhausted/Carrie2.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 6.1
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 6.1
+        },
+        "amplitude_range": {
+            "min": -0.97,
+            "max": 0.897
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1290.07,
+            "time_jitter_pct": 20.01
+        },
+        "transcript_marker": "Yawn",
+        "usage_context": "Indicates tiredness or boredom",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "TirednessSecondary"
+        ]
+    },
+    "YawnExhausted_Carrie1": {
+        "description": "Sound of Yawn Exhausted.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/YawnExhausted/Carrie1.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 5.94
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 5.94
+        },
+        "amplitude_range": {
+            "min": -0.824,
+            "max": 0.983
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1421.31,
+            "time_jitter_pct": 22.98
+        },
+        "transcript_marker": "Yawn",
+        "usage_context": "Indicates tiredness or boredom",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "TirednessSecondary"
+        ]
+    },
+    "GaspAmazment_Carrie": {
+        "description": "Sound of Gasp Amazment.",
+        "probability_weight": 0.0046,
+        "file_path": "female/nonverbal_cues/GaspAmazment/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.945,
+            "max": 0.889
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1331.55,
+            "time_jitter_pct": 29.42
+        },
+        "transcript_marker": "Gasp"
+    },
+    "ImitativeHorn_Carrie": {
+        "description": "Sound of Imitative Horn.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/ImitativeHorn/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.67,
+            "max": 1.005
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1297.98,
+            "time_jitter_pct": 27.05
+        },
+        "transcript_marker": "Imitative",
+        "usage_context": "Mimics a sound effect",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SurpriseSecondary"
+        ]
+    },
+    "GaspRealization_Carrie": {
+        "description": "Sound of Gasp Realization.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/GaspRealization/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.04
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.04
+        },
+        "amplitude_range": {
+            "min": -0.869,
+            "max": 0.981
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1347.78,
+            "time_jitter_pct": 27.05
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "MurmurUncertain_Carrie": {
+        "description": "Sound of Murmur Uncertain.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/MurmurUncertain/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.902,
+            "max": 0.984
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 691.67,
+            "time_jitter_pct": 38.09
+        },
+        "transcript_marker": "Murmur",
+        "usage_context": "Expresses agreement or contemplation",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "LaughterSurprised2_Carrie": {
+        "description": "Sound of Laughter Surprised2.",
+        "probability_weight": 0.0046,
+        "file_path": "female/nonverbal_cues/LaughterSurprised2/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.776,
+            "max": 0.984
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1064.65,
+            "time_jitter_pct": 28.45
+        },
+        "transcript_marker": "Laughter"
+    },
+    "NonverbalDisagree_Carrie": {
+        "description": "Sound of Nonverbal Disagree.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/NonverbalDisagree/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.05
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.05
+        },
+        "amplitude_range": {
+            "min": -0.989,
+            "max": 0.696
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1528.69,
+            "time_jitter_pct": 26.12
+        },
+        "transcript_marker": "Nonverbal",
+        "usage_context": "Expresses disapproval or skepticism",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisapprovalSecondary"
+        ]
+    },
+    "GaspSurprisedDelight_Carrie": {
+        "description": "Sound of Gasp Surprised Delight.",
+        "probability_weight": 0.0046,
+        "file_path": "female/nonverbal_cues/GaspSurprisedDelight/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.837,
+            "max": 0.968
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1233.3,
+            "time_jitter_pct": 29.47
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "ClickDisapproval_Carrie": {
+        "description": "Sound of Click Disapproval.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/ClickDisapproval/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.5
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.5
+        },
+        "amplitude_range": {
+            "min": -0.673,
+            "max": 0.706
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1208.73,
+            "time_jitter_pct": 22.76
+        },
+        "transcript_marker": "Click",
+        "usage_context": "Clicking sound indicating disapproval or pondering",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "DisapprovalSecondary"
+        ]
+    },
+    "CryFrustrated_Carrie": {
+        "description": "Sound of Cry Frustrated.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/CryFrustrated/Carrie.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.46
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.46
+        },
+        "amplitude_range": {
+            "min": -0.972,
+            "max": 0.937
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1263.0,
+            "time_jitter_pct": 30.46
+        },
+        "transcript_marker": "Cry",
+        "usage_context": "Expresses crying or emotional response",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SadnessPrimary"
+        ]
+    },
+    "CryJoy_Carrie": {
+        "description": "Sound of Cry Joy.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/CryJoy/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.987,
+            "max": 0.798
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1054.15,
+            "time_jitter_pct": 28.35
+        },
+        "transcript_marker": "Cry",
+        "usage_context": "Expresses crying or emotional response",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SadnessPrimary"
+        ]
+    },
+    "GruntApproval_Carrie2": {
+        "description": "Sound of Grunt Approval.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/GruntApproval/Carrie2.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.81
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.81
+        },
+        "amplitude_range": {
+            "min": -0.995,
+            "max": 0.969
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1480.08,
+            "time_jitter_pct": 31.94
+        },
+        "transcript_marker": "Grunt",
+        "usage_context": "Expresses annoyance or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "GruntApproval_Carrie1": {
+        "description": "Sound of Grunt Approval.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/GruntApproval/Carrie1.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.55
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.55
+        },
+        "amplitude_range": {
+            "min": -0.982,
+            "max": 0.835
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1230.62,
+            "time_jitter_pct": 24.16
+        },
+        "transcript_marker": "Grunt",
+        "usage_context": "Expresses annoyance or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "SighBored_Carrie": {
+        "description": "Sound of Sigh Bored.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/SighBored/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 5.94
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 5.94
+        },
+        "amplitude_range": {
+            "min": -0.808,
+            "max": 0.987
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1101.24,
+            "time_jitter_pct": 22.74
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "ApplauseSubtle_Carrie": {
+        "description": "Sound of Applause Subtle.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/ApplauseSubtle/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.47
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.47
+        },
+        "amplitude_range": {
+            "min": -0.781,
+            "max": 0.902
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1659.38,
+            "time_jitter_pct": 34.64
+        },
+        "transcript_marker": "Applause",
+        "usage_context": "Expresses celebration or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "JoyPrimary"
+        ]
+    },
+    "SnortSkeptical_Carrie": {
+        "description": "Sound of Snort Skeptical.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/SnortSkeptical/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.916,
+            "max": 0.757
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1406.09,
+            "time_jitter_pct": 17.74
+        },
+        "transcript_marker": "Snort",
+        "usage_context": "Brief nasal sound expressing doubt or mockery",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisbeliefSecondary"
+        ]
+    },
+    "CoughLight_Carrie": {
+        "description": "Sound of Cough Light.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/CoughLight/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.0
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.0
+        },
+        "amplitude_range": {
+            "min": -0.937,
+            "max": 0.991
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1335.85,
+            "time_jitter_pct": 24.62
+        },
+        "transcript_marker": "Cough",
+        "usage_context": "Clears throat or cough for emphasis or interruption",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustSecondary"
+        ]
+    },
+    "GaspSurprised_Carrie2": {
+        "description": "Sound of Gasp Surprised.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/GaspSurprised/Carrie2.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.844,
+            "max": 1.001
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1368.9,
+            "time_jitter_pct": 36.42
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "GaspSurprised_Carrie1": {
+        "description": "Sound of Gasp Surprised.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/GaspSurprised/Carrie1.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.48
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.48
+        },
+        "amplitude_range": {
+            "min": -0.964,
+            "max": 0.799
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1152.36,
+            "time_jitter_pct": 35.11
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "NonverbalAffirmation_Carrie": {
+        "description": "Sound of Nonverbal Affirmation.",
+        "probability_weight": 0.0046,
+        "file_path": "female/nonverbal_cues/NonverbalAffirmation/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.01
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.01
+        },
+        "amplitude_range": {
+            "min": -0.989,
+            "max": 0.724
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 601.32,
+            "time_jitter_pct": 26.95
+        },
+        "transcript_marker": "Nonverbal",
+        "usage_context": "Expresses affirmation or agreement",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AgreementPrimary"
+        ]
+    },
+    "GruntAgreement_Carrie": {
+        "description": "Sound of Grunt Agreement.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/GruntAgreement/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.987,
+            "max": 0.771
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1462.67,
+            "time_jitter_pct": 35.61
+        },
+        "transcript_marker": "Grunt",
+        "usage_context": "Expresses annoyance or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "ImitativeExplosion_Carrie": {
+        "description": "Sound of Imitative Explosion.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/ImitativeExplosion/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.46
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.46
+        },
+        "amplitude_range": {
+            "min": -1.013,
+            "max": 1.024
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 979.56,
+            "time_jitter_pct": 27.05
+        },
+        "transcript_marker": "Imitative",
+        "usage_context": "Mimics a sound effect",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SurpriseSecondary"
+        ]
+    },
+    "MurmurPondering_Carrie2": {
+        "description": "Sound of Murmur Pondering.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/MurmurPondering/Carrie2.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.989,
+            "max": 0.858
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 892.21,
+            "time_jitter_pct": 23.24
+        },
+        "transcript_marker": "Murmur",
+        "usage_context": "Expresses agreement or contemplation",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "MurmurPondering_Carrie1": {
+        "description": "Sound of Murmur Pondering.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/MurmurPondering/Carrie1.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.99,
+            "max": 0.62
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1133.3,
+            "time_jitter_pct": 30.36
+        },
+        "transcript_marker": "Murmur",
+        "usage_context": "Expresses agreement or contemplation",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "SighRealization_Carrie": {
+        "description": "Sound of Sigh Realization.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/SighRealization/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.71,
+            "max": 0.949
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1163.05,
+            "time_jitter_pct": 23.39
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "PopSurprised_Carrie": {
+        "description": "Sound of Pop Surprised.",
+        "probability_weight": 0.0046,
+        "file_path": "female/nonverbal_cues/PopSurprised/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.84
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.84
+        },
+        "amplitude_range": {
+            "min": -0.81,
+            "max": 0.604
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1258.98,
+            "time_jitter_pct": 20.87
+        },
+        "transcript_marker": "Pop",
+        "usage_context": "Popping sound indicating surprise",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary"
+        ]
+    },
+    "LaughterPolite_Carrie": {
+        "description": "Sound of Laughter Polite.",
+        "probability_weight": 0.0046,
+        "file_path": "female/nonverbal_cues/LaughterPolite/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.17
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.17
+        },
+        "amplitude_range": {
+            "min": -0.988,
+            "max": 0.944
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1437.38,
+            "time_jitter_pct": 23.99
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "GaspOverwhelmed_Carrie": {
+        "description": "Sound of Gasp Overwhelmed.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/GaspOverwhelmed/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.815,
+            "max": 0.96
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1359.33,
+            "time_jitter_pct": 30.51
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "SighDetermined_Carrie": {
+        "description": "Sound of Sigh Determined.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/SighDetermined/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.07
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.07
+        },
+        "amplitude_range": {
+            "min": -0.889,
+            "max": 0.943
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1315.04,
+            "time_jitter_pct": 21.19
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "CheerEnthusiastic_Carrie": {
+        "description": "Sound of Cheer Enthusiastic.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/CheerEnthusiastic/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.46
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.46
+        },
+        "amplitude_range": {
+            "min": -0.822,
+            "max": 1.022
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1052.59,
+            "time_jitter_pct": 30.8
+        },
+        "transcript_marker": "Cheer",
+        "usage_context": "Expresses celebration or approval",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary"
+        ]
+    },
+    "ShiverFearful_Carrie": {
+        "description": "Sound of Shiver Fearful.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/ShiverFearful/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.983,
+            "max": 0.759
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1007.48,
+            "time_jitter_pct": 24.63
+        },
+        "transcript_marker": "Shiver",
+        "usage_context": "Expresses cold, fear, or chills",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "NonverbalSkeptical_Carrie2": {
+        "description": "Sound of Nonverbal Skeptical.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/NonverbalSkeptical/Carrie2.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.41
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.41
+        },
+        "amplitude_range": {
+            "min": -0.989,
+            "max": 0.633
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1648.59,
+            "time_jitter_pct": 21.42
+        },
+        "transcript_marker": "Nonverbal",
+        "usage_context": "Expresses disapproval or skepticism",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisapprovalSecondary"
+        ]
+    },
+    "NonverbalSkeptical_Carrie1": {
+        "description": "Sound of Nonverbal Skeptical.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/NonverbalSkeptical/Carrie1.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.41
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.41
+        },
+        "amplitude_range": {
+            "min": -0.989,
+            "max": 0.633
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1648.59,
+            "time_jitter_pct": 21.42
+        },
+        "transcript_marker": "Nonverbal",
+        "usage_context": "Expresses disapproval or skepticism",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisapprovalSecondary"
+        ]
+    },
+    "ShiverCold_Carrie": {
+        "description": "Sound of Shiver Cold.",
+        "probability_weight": 0.0091,
+        "file_path": "female/nonverbal_cues/ShiverCold/Carrie.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.802,
+            "max": 0.775
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1274.74,
+            "time_jitter_pct": 23.72
+        },
+        "transcript_marker": "Shiver",
+        "usage_context": "Expresses cold, fear, or chills",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "LaughterSpeaking_Carrie2": {
+        "description": "Sound of Laughter Speaking.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/LaughterSpeaking/Carrie2.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.13
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.13
+        },
+        "amplitude_range": {
+            "min": -0.871,
+            "max": 0.984
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1064.48,
+            "time_jitter_pct": 19.52
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "LaughterSpeaking_Carrie1": {
+        "description": "Sound of Laughter Speaking.",
+        "probability_weight": 0.0137,
+        "file_path": "female/nonverbal_cues/LaughterSpeaking/Carrie1.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.985,
+            "max": 0.98
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1121.69,
+            "time_jitter_pct": 29.19
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "ChatterTeethCold_Carrie": {
+        "description": "Sound of Chatter Teeth Cold.",
+        "probability_weight": 0.0046,
+        "file_path": "female/nonverbal_cues/ChatterTeethCold/Carrie.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.97
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.97
+        },
+        "amplitude_range": {
+            "min": -0.726,
+            "max": 0.946
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1358.92,
+            "time_jitter_pct": 20.0
+        },
+        "transcript_marker": "Chatter",
+        "usage_context": "Expresses discomfort due to cold or shivering",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "BreathDeep_Connor": {
+        "description": "Sound of Breath Deep.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/BreathDeep/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.86
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.86
+        },
+        "amplitude_range": {
+            "min": -0.15,
+            "max": 0.134
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1450.24,
+            "time_jitter_pct": 22.75
+        },
+        "transcript_marker": "Breath",
+        "usage_context": "Represents a breath before, during, or after speech",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "MoanDoubtful_Connor": {
+        "description": "Sound of Moan Doubtful.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/MoanDoubtful/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.79
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.79
+        },
+        "amplitude_range": {
+            "min": -0.08,
+            "max": 0.055
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1080.89,
+            "time_jitter_pct": 40.47
+        },
+        "transcript_marker": "Moan",
+        "usage_context": "Expresses annoyance or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "GaspDramatic_Connor": {
+        "description": "Sound of Gasp Dramatic.",
+        "probability_weight": 0.0137,
+        "file_path": "male/nonverbal_cues/GaspDramatic/Connor.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.5
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.5
+        },
+        "amplitude_range": {
+            "min": -0.154,
+            "max": 0.286
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1571.23,
+            "time_jitter_pct": 29.13
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "GroggyUnfocused_Connor": {
+        "description": "Sound of Groggy Unfocused.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/GroggyUnfocused/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.05
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.05
+        },
+        "amplitude_range": {
+            "min": -0.074,
+            "max": 0.06
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1418.88,
+            "time_jitter_pct": 35.9
+        },
+        "transcript_marker": "Groggy",
+        "usage_context": "Expresses grogginess or sleepiness",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "FatigueSecondary"
+        ]
+    },
+    "GaspSuprised_Connor": {
+        "description": "Sound of Gasp Suprised.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/GaspSuprised/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.66
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.66
+        },
+        "amplitude_range": {
+            "min": -0.174,
+            "max": 0.177
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1674.59,
+            "time_jitter_pct": 28.72
+        },
+        "transcript_marker": "Gasp"
+    },
+    "GaspShock_Connor": {
+        "description": "Sound of Gasp Shock.",
+        "probability_weight": 0.0137,
+        "file_path": "male/nonverbal_cues/GaspShock/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.32
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.32
+        },
+        "amplitude_range": {
+            "min": -0.169,
+            "max": 0.202
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1532.38,
+            "time_jitter_pct": 34.08
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "PauseRealization_Connor": {
+        "description": "Sound of Pause Realization.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/PauseRealization/Connor.wav",
+        "prosody_hint": "crescendo around 75% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 5.14
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 5.14
+        },
+        "amplitude_range": {
+            "min": -0.12,
+            "max": 0.077
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1511.83,
+            "time_jitter_pct": 22.43
+        },
+        "transcript_marker": "Pause",
+        "usage_context": "Indicates a thoughtful or natural pause",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "BreathHeavy_Connor": {
+        "description": "Sound of Breath Heavy.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/BreathHeavy/Connor.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.12
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.12
+        },
+        "amplitude_range": {
+            "min": -0.121,
+            "max": 0.186
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1397.7,
+            "time_jitter_pct": 16.94
+        },
+        "transcript_marker": "Breath",
+        "usage_context": "Represents a breath before, during, or after speech",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "LaughterPlayful_Connor": {
+        "description": "Sound of Laughter Playful.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/LaughterPlayful/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.38
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.38
+        },
+        "amplitude_range": {
+            "min": -0.191,
+            "max": 0.141
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1214.19,
+            "time_jitter_pct": 26.55
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "ExhaleNervous_Connor": {
+        "description": "Sound of Exhale Nervous.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/ExhaleNervous/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.71
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.71
+        },
+        "amplitude_range": {
+            "min": -0.226,
+            "max": 0.208
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1417.23,
+            "time_jitter_pct": 22.94
+        },
+        "transcript_marker": "Exhale",
+        "usage_context": "Represents a breath before, during, or after speech",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "LaughterDisbelief_Connor": {
+        "description": "Sound of Laughter Disbelief.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/LaughterDisbelief/Connor.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.67
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.67
+        },
+        "amplitude_range": {
+            "min": -0.229,
+            "max": 0.187
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1375.57,
+            "time_jitter_pct": 25.01
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "GaspDramaric_Connor": {
+        "description": "Sound of Gasp Dramaric.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/GaspDramaric/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.58
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.58
+        },
+        "amplitude_range": {
+            "min": -0.141,
+            "max": 0.188
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1581.64,
+            "time_jitter_pct": 30.15
+        },
+        "transcript_marker": "Gasp"
+    },
+    "SighRegretful_Connor": {
+        "description": "Sound of Sigh Regretful.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/SighRegretful/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.22
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.22
+        },
+        "amplitude_range": {
+            "min": -0.1,
+            "max": 0.11
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1479.41,
+            "time_jitter_pct": 27.37
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "SighReleived_Connor": {
+        "description": "Sound of Sigh Releived.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/SighReleived/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.18
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.18
+        },
+        "amplitude_range": {
+            "min": -0.09,
+            "max": 0.075
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1509.05,
+            "time_jitter_pct": 26.56
+        },
+        "transcript_marker": "Sigh"
+    },
+    "TearUp_Connor": {
+        "description": "Sound of Tear Up.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/TearUp/Connor.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.62
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.62
+        },
+        "amplitude_range": {
+            "min": -0.278,
+            "max": 0.246
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1507.26,
+            "time_jitter_pct": 22.49
+        },
+        "transcript_marker": "Tear",
+        "usage_context": "Expresses crying or emotional response",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SadnessPrimary"
+        ]
+    },
+    "CoughPolite_Connor": {
+        "description": "Sound of Cough Polite.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/CoughPolite/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.87
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.87
+        },
+        "amplitude_range": {
+            "min": -0.278,
+            "max": 0.233
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1631.92,
+            "time_jitter_pct": 28.22
+        },
+        "transcript_marker": "Cough",
+        "usage_context": "Clears throat or cough for emphasis or interruption",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustSecondary"
+        ]
+    },
+    "SighFrustrated_Connor": {
+        "description": "Sound of Sigh Frustrated.",
+        "probability_weight": 0.0137,
+        "file_path": "male/nonverbal_cues/SighFrustrated/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.5
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.5
+        },
+        "amplitude_range": {
+            "min": -0.282,
+            "max": 0.242
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1439.18,
+            "time_jitter_pct": 26.04
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "GroanAnnoyed_Connor": {
+        "description": "Sound of Groan Annoyed.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/GroanAnnoyed/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.15
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.15
+        },
+        "amplitude_range": {
+            "min": -0.119,
+            "max": 0.095
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1430.94,
+            "time_jitter_pct": 36.21
+        },
+        "transcript_marker": "Groan",
+        "usage_context": "Expresses annoyance or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "WhisperAlert_Connor": {
+        "description": "Sound of Whisper Alert.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/WhisperAlert/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.79
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.79
+        },
+        "amplitude_range": {
+            "min": -0.121,
+            "max": 0.119
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 2072.82,
+            "time_jitter_pct": 32.54
+        },
+        "transcript_marker": "Whisper",
+        "usage_context": "Soft voice indicating secrecy or confidentiality",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "SighExasperated_Connor": {
+        "description": "Sound of Sigh Exasperated.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/SighExasperated/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.0
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.0
+        },
+        "amplitude_range": {
+            "min": -0.123,
+            "max": 0.078
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1505.52,
+            "time_jitter_pct": 30.0
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "GroanExasperated_Connor": {
+        "description": "Sound of Groan Exasperated.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/GroanExasperated/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.92
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.92
+        },
+        "amplitude_range": {
+            "min": -0.218,
+            "max": 0.155
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1364.82,
+            "time_jitter_pct": 30.34
+        },
+        "transcript_marker": "Groan",
+        "usage_context": "Expresses annoyance or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "YawnBored_Connor": {
+        "description": "Sound of Yawn Bored.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/YawnBored/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.87
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.87
+        },
+        "amplitude_range": {
+            "min": -0.119,
+            "max": 0.122
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1397.13,
+            "time_jitter_pct": 34.24
+        },
+        "transcript_marker": "Yawn",
+        "usage_context": "Indicates tiredness or boredom",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "TirednessSecondary"
+        ]
+    },
+    "ClickPondering_Connor": {
+        "description": "Sound of Click Pondering.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/ClickPondering/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.56
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.56
+        },
+        "amplitude_range": {
+            "min": -0.398,
+            "max": 0.206
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1823.13,
+            "time_jitter_pct": 25.58
+        },
+        "transcript_marker": "Click",
+        "usage_context": "Clicking sound indicating disapproval or pondering",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "DisapprovalSecondary"
+        ]
+    },
+    "LaughterSoftChuckle_Connor": {
+        "description": "Sound of Laughter Soft Chuckle.",
+        "probability_weight": 0.0137,
+        "file_path": "male/nonverbal_cues/LaughterSoftChuckle/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.7
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.7
+        },
+        "amplitude_range": {
+            "min": -0.257,
+            "max": 0.169
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1282.45,
+            "time_jitter_pct": 22.7
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "PauseThoughtful_Connor": {
+        "description": "Sound of Pause Thoughtful.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/PauseThoughtful/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.64
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.64
+        },
+        "amplitude_range": {
+            "min": -0.111,
+            "max": 0.085
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1688.31,
+            "time_jitter_pct": 22.63
+        },
+        "transcript_marker": "Pause",
+        "usage_context": "Indicates a thoughtful or natural pause",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "PauseReflective_Connor": {
+        "description": "Sound of Pause Reflective.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/PauseReflective/Connor.wav",
+        "prosody_hint": "crescendo around 75% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.85
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.85
+        },
+        "amplitude_range": {
+            "min": -0.08,
+            "max": 0.062
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1248.91,
+            "time_jitter_pct": 31.53
+        },
+        "transcript_marker": "Pause",
+        "usage_context": "Indicates a thoughtful or natural pause",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "SniffleEmotional_Connor": {
+        "description": "Sound of Sniffle Emotional.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/SniffleEmotional/Connor.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.73
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.73
+        },
+        "amplitude_range": {
+            "min": -0.038,
+            "max": 0.048
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1643.18,
+            "time_jitter_pct": 19.97
+        },
+        "transcript_marker": "Sniffle",
+        "usage_context": "Expresses crying or emotional response",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SadnessPrimary"
+        ]
+    },
+    "LaughterHearty_Connor": {
+        "description": "Sound of Laughter Hearty.",
+        "probability_weight": 0.0137,
+        "file_path": "male/nonverbal_cues/LaughterHearty/Connor.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.8
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.8
+        },
+        "amplitude_range": {
+            "min": -0.739,
+            "max": 0.677
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1285.27,
+            "time_jitter_pct": 22.73
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "LaughterQuick_Connor": {
+        "description": "Sound of Laughter Quick.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/LaughterQuick/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.32
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.32
+        },
+        "amplitude_range": {
+            "min": -0.278,
+            "max": 0.298
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1283.14,
+            "time_jitter_pct": 29.04
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "ThroatClearPreparing_Connor": {
+        "description": "Sound of Throat Clear Preparing.",
+        "probability_weight": 0.0137,
+        "file_path": "male/nonverbal_cues/ThroatClearPreparing/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.5
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.5
+        },
+        "amplitude_range": {
+            "min": -0.261,
+            "max": 0.231
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1541.48,
+            "time_jitter_pct": 30.37
+        },
+        "transcript_marker": "Throat",
+        "usage_context": "Clears throat or cough for emphasis or interruption",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustSecondary"
+        ]
+    },
+    "ExhaleRelief_Connor": {
+        "description": "Sound of Exhale Relief.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/ExhaleRelief/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.51
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.51
+        },
+        "amplitude_range": {
+            "min": -0.073,
+            "max": 0.062
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1405.78,
+            "time_jitter_pct": 33.11
+        },
+        "transcript_marker": "Exhale",
+        "usage_context": "Represents a breath before, during, or after speech",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "BreathCalm_Connor": {
+        "description": "Sound of Breath Calm.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/BreathCalm/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 5.23
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 5.23
+        },
+        "amplitude_range": {
+            "min": -0.03,
+            "max": 0.049
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1435.79,
+            "time_jitter_pct": 19.29
+        },
+        "transcript_marker": "Breath",
+        "usage_context": "Represents a breath before, during, or after speech",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "Hiccup_Connor": {
+        "description": "Sound of Hiccup.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/Hiccup/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.89
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.89
+        },
+        "amplitude_range": {
+            "min": -0.184,
+            "max": 0.226
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1548.11,
+            "time_jitter_pct": 27.14
+        },
+        "transcript_marker": "Hiccup",
+        "usage_context": "Involuntary reaction or surprise",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurpriseSecondary"
+        ]
+    },
+    "GaspAmazement_Connor": {
+        "description": "Sound of Gasp Amazement.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/GaspAmazement/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.57
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.57
+        },
+        "amplitude_range": {
+            "min": -0.114,
+            "max": 0.172
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1531.08,
+            "time_jitter_pct": 31.97
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "ThroatClearNervous_Connor": {
+        "description": "Sound of Throat Clear Nervous.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/ThroatClearNervous/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.32
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.32
+        },
+        "amplitude_range": {
+            "min": -0.265,
+            "max": 0.208
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1691.6,
+            "time_jitter_pct": 29.62
+        },
+        "transcript_marker": "Throat",
+        "usage_context": "Clears throat or cough for emphasis or interruption",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustSecondary"
+        ]
+    },
+    "GaspMild_Connor": {
+        "description": "Sound of Gasp Mild.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/GaspMild/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.21
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.21
+        },
+        "amplitude_range": {
+            "min": -0.199,
+            "max": 0.158
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1388.95,
+            "time_jitter_pct": 30.87
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "NonverbalApproval_Connor": {
+        "description": "Sound of Nonverbal Approval.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/NonverbalApproval/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.9
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.9
+        },
+        "amplitude_range": {
+            "min": -0.184,
+            "max": 0.09
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1525.75,
+            "time_jitter_pct": 30.37
+        },
+        "transcript_marker": "Nonverbal",
+        "usage_context": "Expresses affirmation or agreement",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AgreementPrimary"
+        ]
+    },
+    "SighResigned_Connor": {
+        "description": "Sound of Sigh Resigned.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/SighResigned/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.5
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.5
+        },
+        "amplitude_range": {
+            "min": -0.068,
+            "max": 0.074
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1388.69,
+            "time_jitter_pct": 28.86
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "WhisperSecretive_Connor": {
+        "description": "Sound of Whisper Secretive.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/WhisperSecretive/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.66
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.66
+        },
+        "amplitude_range": {
+            "min": -0.05,
+            "max": 0.04
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1033.75,
+            "time_jitter_pct": 33.29
+        },
+        "transcript_marker": "Whisper",
+        "usage_context": "Soft voice indicating secrecy or confidentiality",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "SneezePolite_Connor": {
+        "description": "Sound of Sneeze Polite.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/SneezePolite/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.02
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.02
+        },
+        "amplitude_range": {
+            "min": -0.317,
+            "max": 0.315
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1745.36,
+            "time_jitter_pct": 21.52
+        },
+        "transcript_marker": "Sneeze",
+        "usage_context": "Represents a sneeze",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary"
+        ]
+    },
+    "SobLight_Connor": {
+        "description": "Sound of Sob Light.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/SobLight/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.31
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.31
+        },
+        "amplitude_range": {
+            "min": -0.11,
+            "max": 0.068
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1766.9,
+            "time_jitter_pct": 24.35
+        },
+        "transcript_marker": "Sob",
+        "usage_context": "Expresses crying or emotional response",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SadnessPrimary"
+        ]
+    },
+    "PauseNatrual_Connor": {
+        "description": "Sound of Pause Natrual.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/PauseNatrual/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.22
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.22
+        },
+        "amplitude_range": {
+            "min": -0.13,
+            "max": 0.094
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1250.94,
+            "time_jitter_pct": 23.2
+        },
+        "transcript_marker": "Pause"
+    },
+    "WhisperConfidential_Connor": {
+        "description": "Sound of Whisper Confidential.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/WhisperConfidential/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.87
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.87
+        },
+        "amplitude_range": {
+            "min": -0.067,
+            "max": 0.072
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1306.07,
+            "time_jitter_pct": 33.02
+        },
+        "transcript_marker": "Whisper",
+        "usage_context": "Soft voice indicating secrecy or confidentiality",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "CoughPlayful_Connor": {
+        "description": "Sound of Cough Playful.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/CoughPlayful/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.5
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.5
+        },
+        "amplitude_range": {
+            "min": -0.243,
+            "max": 0.147
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1482.28,
+            "time_jitter_pct": 30.99
+        },
+        "transcript_marker": "Cough",
+        "usage_context": "Clears throat or cough for emphasis or interruption",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustSecondary"
+        ]
+    },
+    "GroggySleepy_Connor": {
+        "description": "Sound of Groggy Sleepy.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/GroggySleepy/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.5
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.5
+        },
+        "amplitude_range": {
+            "min": -0.073,
+            "max": 0.06
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1587.35,
+            "time_jitter_pct": 34.63
+        },
+        "transcript_marker": "Groggy",
+        "usage_context": "Expresses grogginess or sleepiness",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "FatigueSecondary"
+        ]
+    },
+    "ChatterTeethShivering_Connor": {
+        "description": "Sound of Chatter Teeth Shivering.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/ChatterTeethShivering/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.77
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.77
+        },
+        "amplitude_range": {
+            "min": -0.124,
+            "max": 0.076
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1455.42,
+            "time_jitter_pct": 31.2
+        },
+        "transcript_marker": "Chatter",
+        "usage_context": "Expresses discomfort due to cold or shivering",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "HumTune_Connor": {
+        "description": "Sound of Hum Tune.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/HumTune/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.09
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.09
+        },
+        "amplitude_range": {
+            "min": -0.103,
+            "max": 0.07
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1617.86,
+            "time_jitter_pct": 34.85
+        },
+        "transcript_marker": "Hum",
+        "usage_context": "Expresses agreement or contemplation",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "HumAgreement_Connor": {
+        "description": "Sound of Hum Agreement.",
+        "probability_weight": 0.0137,
+        "file_path": "male/nonverbal_cues/HumAgreement/Connor.wav",
+        "prosody_hint": "crescendo around 75% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.54
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.54
+        },
+        "amplitude_range": {
+            "min": -0.12,
+            "max": 0.085
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1676.14,
+            "time_jitter_pct": 35.03
+        },
+        "transcript_marker": "Hum",
+        "usage_context": "Expresses agreement or contemplation",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "GruntIrritated_Connor": {
+        "description": "Sound of Grunt Irritated.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/GruntIrritated/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.79
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.79
+        },
+        "amplitude_range": {
+            "min": -0.403,
+            "max": 0.286
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1625.7,
+            "time_jitter_pct": 31.7
+        },
+        "transcript_marker": "Grunt",
+        "usage_context": "Expresses annoyance or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "ShudderDisgust_Connor": {
+        "description": "Sound of Shudder Disgust.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/ShudderDisgust/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.8
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.8
+        },
+        "amplitude_range": {
+            "min": -0.212,
+            "max": 0.145
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1541.72,
+            "time_jitter_pct": 26.32
+        },
+        "transcript_marker": "Shudder",
+        "usage_context": "Expresses cold, fear, or chills",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "WhistlePlayful_Connor": {
+        "description": "Sound of Whistle Playful.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/WhistlePlayful/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.9
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.9
+        },
+        "amplitude_range": {
+            "min": -0.614,
+            "max": 0.596
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1449.36,
+            "time_jitter_pct": 22.92
+        },
+        "transcript_marker": "Whistle",
+        "usage_context": "Expresses playful or lighthearted approval or greeting",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary"
+        ]
+    },
+    "PopSuprised_Connor": {
+        "description": "Sound of Pop Suprised.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/PopSuprised/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.73
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.73
+        },
+        "amplitude_range": {
+            "min": -0.209,
+            "max": 0.204
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1425.38,
+            "time_jitter_pct": 21.23
+        },
+        "transcript_marker": "Pop"
+    },
+    "SneezeWithSniffles_Connor": {
+        "description": "Sound of Sneeze With Sniffles.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/SneezeWithSniffles/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.93
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.93
+        },
+        "amplitude_range": {
+            "min": -0.527,
+            "max": 0.488
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1473.32,
+            "time_jitter_pct": 25.65
+        },
+        "transcript_marker": "Sneeze",
+        "usage_context": "Represents a sneeze",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary"
+        ]
+    },
+    "TeethChatterCold_Connor": {
+        "description": "Sound of Teeth Chatter Cold.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/TeethChatterCold/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.19
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.19
+        },
+        "amplitude_range": {
+            "min": -0.119,
+            "max": 0.09
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1603.22,
+            "time_jitter_pct": 23.31
+        },
+        "transcript_marker": "Teeth"
+    },
+    "SighContented_Connor": {
+        "description": "Sound of Sigh Contented.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/SighContented/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.89
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.89
+        },
+        "amplitude_range": {
+            "min": -0.092,
+            "max": 0.082
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1604.1,
+            "time_jitter_pct": 26.73
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "ClapSlow_Connor": {
+        "description": "Sound of Clap Slow.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/ClapSlow/Connor.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 6.2
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 6.2
+        },
+        "amplitude_range": {
+            "min": -0.419,
+            "max": 0.466
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1627.6,
+            "time_jitter_pct": 21.21
+        },
+        "transcript_marker": "Clap",
+        "usage_context": "Expresses celebration or approval",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary"
+        ]
+    },
+    "GroggyConfused_Connor": {
+        "description": "Sound of Groggy Confused.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/GroggyConfused/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.28
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.28
+        },
+        "amplitude_range": {
+            "min": -0.1,
+            "max": 0.07
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1538.53,
+            "time_jitter_pct": 26.39
+        },
+        "transcript_marker": "Groggy",
+        "usage_context": "Expresses grogginess or sleepiness",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "FatigueSecondary"
+        ]
+    },
+    "CheerExcited_Connor": {
+        "description": "Sound of Cheer Excited.",
+        "probability_weight": 0.0137,
+        "file_path": "male/nonverbal_cues/CheerExcited/Connor.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.79
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.79
+        },
+        "amplitude_range": {
+            "min": -0.538,
+            "max": 0.338
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1451.07,
+            "time_jitter_pct": 20.72
+        },
+        "transcript_marker": "Cheer",
+        "usage_context": "Expresses celebration or approval",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary"
+        ]
+    },
+    "SighReflective_Connor": {
+        "description": "Sound of Sigh Reflective.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/SighReflective/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.31
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.31
+        },
+        "amplitude_range": {
+            "min": -0.084,
+            "max": 0.125
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1414.29,
+            "time_jitter_pct": 23.72
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "InhaleQuick_Connor": {
+        "description": "Sound of Inhale Quick.",
+        "probability_weight": 0.0137,
+        "file_path": "male/nonverbal_cues/InhaleQuick/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.79
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.79
+        },
+        "amplitude_range": {
+            "min": -0.071,
+            "max": 0.087
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1496.96,
+            "time_jitter_pct": 32.08
+        },
+        "transcript_marker": "Inhale",
+        "usage_context": "Represents a breath before, during, or after speech",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "SneezeLoud_Connor": {
+        "description": "Sound of Sneeze Loud.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/SneezeLoud/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.31
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.31
+        },
+        "amplitude_range": {
+            "min": -0.503,
+            "max": 0.491
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1500.83,
+            "time_jitter_pct": 29.29
+        },
+        "transcript_marker": "Sneeze",
+        "usage_context": "Represents a sneeze",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary"
+        ]
+    },
+    "NonverbalDisapproval_Connor": {
+        "description": "Sound of Nonverbal Disapproval.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/NonverbalDisapproval/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.86
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.86
+        },
+        "amplitude_range": {
+            "min": -0.077,
+            "max": 0.072
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1725.0,
+            "time_jitter_pct": 21.12
+        },
+        "transcript_marker": "Nonverbal",
+        "usage_context": "Expresses disapproval or skepticism",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisapprovalSecondary"
+        ]
+    },
+    "LaughterSuprised_Connor": {
+        "description": "Sound of Laughter Suprised.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/LaughterSuprised/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.35
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.35
+        },
+        "amplitude_range": {
+            "min": -0.384,
+            "max": 0.389
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1364.99,
+            "time_jitter_pct": 20.23
+        },
+        "transcript_marker": "Laughter"
+    },
+    "GaspSuprisedDelight_Connor": {
+        "description": "Sound of Gasp Suprised Delight.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/GaspSuprisedDelight/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.71
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.71
+        },
+        "amplitude_range": {
+            "min": -0.122,
+            "max": 0.142
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1383.2,
+            "time_jitter_pct": 33.2
+        },
+        "transcript_marker": "Gasp"
+    },
+    "ClapPlayful_Connor": {
+        "description": "Sound of Clap Playful.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/ClapPlayful/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.75
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.75
+        },
+        "amplitude_range": {
+            "min": -0.777,
+            "max": 0.672
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1647.16,
+            "time_jitter_pct": 24.21
+        },
+        "transcript_marker": "Clap",
+        "usage_context": "Expresses celebration or approval",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary"
+        ]
+    },
+    "LaughterNervous_Connor": {
+        "description": "Sound of Laughter Nervous.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/LaughterNervous/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.08
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.08
+        },
+        "amplitude_range": {
+            "min": -0.219,
+            "max": 0.138
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1423.45,
+            "time_jitter_pct": 30.34
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "LipSmack_Connor": {
+        "description": "Sound of Lip Smack.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/LipSmack/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.12
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.12
+        },
+        "amplitude_range": {
+            "min": -0.152,
+            "max": 0.197
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1526.41,
+            "time_jitter_pct": 18.9
+        },
+        "transcript_marker": "Lip",
+        "usage_context": "Expresses enjoyment or anticipation when tasting something",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "ImitativeTapping_Connor": {
+        "description": "Sound of Imitative Tapping.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/ImitativeTapping/Connor.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.24
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.24
+        },
+        "amplitude_range": {
+            "min": -0.291,
+            "max": 0.253
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1604.88,
+            "time_jitter_pct": 27.17
+        },
+        "transcript_marker": "Imitative",
+        "usage_context": "Mimics a sound effect",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SurpriseSecondary"
+        ]
+    },
+    "GaspJoyful_Connor": {
+        "description": "Sound of Gasp Joyful.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/GaspJoyful/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.35
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.35
+        },
+        "amplitude_range": {
+            "min": -0.085,
+            "max": 0.132
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1609.2,
+            "time_jitter_pct": 30.35
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "ThroatClearingPreparing_Connor": {
+        "description": "Sound of Throat Clearing Preparing.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/ThroatClearingPreparing/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.63
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.63
+        },
+        "amplitude_range": {
+            "min": -0.216,
+            "max": 0.215
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1542.44,
+            "time_jitter_pct": 31.39
+        },
+        "transcript_marker": "Throat"
+    },
+    "MurmurSoft_Connor": {
+        "description": "Sound of Murmur Soft.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/MurmurSoft/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.54
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.54
+        },
+        "amplitude_range": {
+            "min": -0.078,
+            "max": 0.042
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1496.05,
+            "time_jitter_pct": 34.05
+        },
+        "transcript_marker": "Murmur",
+        "usage_context": "Expresses agreement or contemplation",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "Shush_Connor": {
+        "description": "Sound of Shush.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/Shush/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.95
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.95
+        },
+        "amplitude_range": {
+            "min": -0.154,
+            "max": 0.144
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1231.29,
+            "time_jitter_pct": 28.08
+        },
+        "transcript_marker": "Shush",
+        "usage_context": "Requests silence or confidentiality,pre-utterance",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "YawnExhausted_Connor": {
+        "description": "Sound of Yawn Exhausted.",
+        "probability_weight": 0.0137,
+        "file_path": "male/nonverbal_cues/YawnExhausted/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.34
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.34
+        },
+        "amplitude_range": {
+            "min": -0.098,
+            "max": 0.075
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1488.23,
+            "time_jitter_pct": 32.62
+        },
+        "transcript_marker": "Yawn",
+        "usage_context": "Indicates tiredness or boredom",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "TirednessSecondary"
+        ]
+    },
+    "ImitativeHorn_Connor": {
+        "description": "Sound of Imitative Horn.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/ImitativeHorn/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.63
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.63
+        },
+        "amplitude_range": {
+            "min": -0.27,
+            "max": 0.208
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1634.23,
+            "time_jitter_pct": 38.03
+        },
+        "transcript_marker": "Imitative",
+        "usage_context": "Mimics a sound effect",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SurpriseSecondary"
+        ]
+    },
+    "GaspRealization_Connor": {
+        "description": "Sound of Gasp Realization.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/GaspRealization/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.73
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.73
+        },
+        "amplitude_range": {
+            "min": -0.054,
+            "max": 0.042
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1485.43,
+            "time_jitter_pct": 28.63
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "MurmurUncertain_Connor": {
+        "description": "Sound of Murmur Uncertain.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/MurmurUncertain/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.06
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.06
+        },
+        "amplitude_range": {
+            "min": -0.103,
+            "max": 0.075
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1714.34,
+            "time_jitter_pct": 41.67
+        },
+        "transcript_marker": "Murmur",
+        "usage_context": "Expresses agreement or contemplation",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "NonverbalDisagree_Connor": {
+        "description": "Sound of Nonverbal Disagree.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/NonverbalDisagree/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.96
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.96
+        },
+        "amplitude_range": {
+            "min": -0.141,
+            "max": 0.085
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1367.4,
+            "time_jitter_pct": 31.58
+        },
+        "transcript_marker": "Nonverbal",
+        "usage_context": "Expresses disapproval or skepticism",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisapprovalSecondary"
+        ]
+    },
+    "NonvervalAffirmation_Connor": {
+        "description": "Sound of Nonverval Affirmation.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/NonvervalAffirmation/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.51
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.51
+        },
+        "amplitude_range": {
+            "min": -0.164,
+            "max": 0.089
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1567.16,
+            "time_jitter_pct": 30.25
+        },
+        "transcript_marker": "Nonverval"
+    },
+    "ExhaleSuprise_Connor": {
+        "description": "Sound of Exhale Suprise.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/ExhaleSuprise/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.5
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.5
+        },
+        "amplitude_range": {
+            "min": -0.135,
+            "max": 0.083
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1573.92,
+            "time_jitter_pct": 25.91
+        },
+        "transcript_marker": "Exhale"
+    },
+    "ClickDisapproval_Connor": {
+        "description": "Sound of Click Disapproval.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/ClickDisapproval/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.18
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.18
+        },
+        "amplitude_range": {
+            "min": -0.115,
+            "max": 0.107
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 2001.54,
+            "time_jitter_pct": 21.45
+        },
+        "transcript_marker": "Click",
+        "usage_context": "Clicking sound indicating disapproval or pondering",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "DisapprovalSecondary"
+        ]
+    },
+    "CryFrustrated_Connor": {
+        "description": "Sound of Cry Frustrated.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/CryFrustrated/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.9
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.9
+        },
+        "amplitude_range": {
+            "min": -0.59,
+            "max": 0.573
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1498.82,
+            "time_jitter_pct": 23.0
+        },
+        "transcript_marker": "Cry",
+        "usage_context": "Expresses crying or emotional response",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SadnessPrimary"
+        ]
+    },
+    "CryJoy_Connor": {
+        "description": "Sound of Cry Joy.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/CryJoy/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.74
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.74
+        },
+        "amplitude_range": {
+            "min": -0.365,
+            "max": 0.189
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1617.46,
+            "time_jitter_pct": 19.88
+        },
+        "transcript_marker": "Cry",
+        "usage_context": "Expresses crying or emotional response",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SadnessPrimary"
+        ]
+    },
+    "GruntApproval_Connor": {
+        "description": "Sound of Grunt Approval.",
+        "probability_weight": 0.0137,
+        "file_path": "male/nonverbal_cues/GruntApproval/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.41
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.41
+        },
+        "amplitude_range": {
+            "min": -0.241,
+            "max": 0.129
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1694.41,
+            "time_jitter_pct": 27.22
+        },
+        "transcript_marker": "Grunt",
+        "usage_context": "Expresses annoyance or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "SighBored_Connor": {
+        "description": "Sound of Sigh Bored.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/SighBored/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.42
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.42
+        },
+        "amplitude_range": {
+            "min": -0.095,
+            "max": 0.067
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1501.7,
+            "time_jitter_pct": 28.6
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "LaughterPoliteWav_Connor": {
+        "description": "Sound of Laughter Polite Wav.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/LaughterPoliteWav/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.93
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.93
+        },
+        "amplitude_range": {
+            "min": -0.273,
+            "max": 0.211
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1597.51,
+            "time_jitter_pct": 30.24
+        },
+        "transcript_marker": "Laughter"
+    },
+    "ApplauseSubtle_Connor": {
+        "description": "Sound of Applause Subtle.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/ApplauseSubtle/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.96
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.96
+        },
+        "amplitude_range": {
+            "min": -0.836,
+            "max": 0.842
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1791.1,
+            "time_jitter_pct": 20.76
+        },
+        "transcript_marker": "Applause",
+        "usage_context": "Expresses celebration or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "JoyPrimary"
+        ]
+    },
+    "Interrupted_Connor": {
+        "description": "Sound of Interrupted.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/Interrupted/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.01
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.01
+        },
+        "amplitude_range": {
+            "min": -0.101,
+            "max": 0.094
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1455.77,
+            "time_jitter_pct": 31.92
+        },
+        "transcript_marker": "Interrupted"
+    },
+    "SnortSkeptical_Connor": {
+        "description": "Sound of Snort Skeptical.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/SnortSkeptical/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.54
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.54
+        },
+        "amplitude_range": {
+            "min": -0.135,
+            "max": 0.082
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1622.72,
+            "time_jitter_pct": 23.71
+        },
+        "transcript_marker": "Snort",
+        "usage_context": "Brief nasal sound expressing doubt or mockery",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisbeliefSecondary"
+        ]
+    },
+    "CoughLight_Connor": {
+        "description": "Sound of Cough Light.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/CoughLight/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.31
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.31
+        },
+        "amplitude_range": {
+            "min": -0.182,
+            "max": 0.218
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1519.31,
+            "time_jitter_pct": 31.13
+        },
+        "transcript_marker": "Cough",
+        "usage_context": "Clears throat or cough for emphasis or interruption",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustSecondary"
+        ]
+    },
+    "SnortAmused_Connor": {
+        "description": "Sound of Snort Amused.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/SnortAmused/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.52
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.52
+        },
+        "amplitude_range": {
+            "min": -0.096,
+            "max": 0.097
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1667.61,
+            "time_jitter_pct": 30.15
+        },
+        "transcript_marker": "Snort",
+        "usage_context": "Brief nasal sound expressing doubt or mockery",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisbeliefSecondary"
+        ]
+    },
+    "GruntAgreement_Connor": {
+        "description": "Sound of Grunt Agreement.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/GruntAgreement/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.63
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.63
+        },
+        "amplitude_range": {
+            "min": -0.188,
+            "max": 0.102
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1667.53,
+            "time_jitter_pct": 31.77
+        },
+        "transcript_marker": "Grunt",
+        "usage_context": "Expresses annoyance or approval",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "ImitativeExplosion_Connor": {
+        "description": "Sound of Imitative Explosion.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/ImitativeExplosion/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.63
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.63
+        },
+        "amplitude_range": {
+            "min": -0.489,
+            "max": 0.459
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1387.96,
+            "time_jitter_pct": 20.57
+        },
+        "transcript_marker": "Imitative",
+        "usage_context": "Mimics a sound effect",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "SurpriseSecondary"
+        ]
+    },
+    "SnortSuprised_Connor": {
+        "description": "Sound of Snort Suprised.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/SnortSuprised/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.39
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.39
+        },
+        "amplitude_range": {
+            "min": -0.309,
+            "max": 0.176
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1635.68,
+            "time_jitter_pct": 26.74
+        },
+        "transcript_marker": "Snort"
+    },
+    "MurmurPondering_Connor": {
+        "description": "Sound of Murmur Pondering.",
+        "probability_weight": 0.0137,
+        "file_path": "male/nonverbal_cues/MurmurPondering/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.18
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.18
+        },
+        "amplitude_range": {
+            "min": -0.093,
+            "max": 0.055
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 854.46,
+            "time_jitter_pct": 36.06
+        },
+        "transcript_marker": "Murmur",
+        "usage_context": "Expresses agreement or contemplation",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "ContemplationSecondary"
+        ]
+    },
+    "GaspShocked_Connor": {
+        "description": "Sound of Gasp Shocked.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/GaspShocked/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.45
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.45
+        },
+        "amplitude_range": {
+            "min": -0.13,
+            "max": 0.136
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1595.94,
+            "time_jitter_pct": 29.32
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "PausePondering_Connor": {
+        "description": "Sound of Pause Pondering.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/PausePondering/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.59
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.59
+        },
+        "amplitude_range": {
+            "min": -0.083,
+            "max": 0.056
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1288.09,
+            "time_jitter_pct": 33.41
+        },
+        "transcript_marker": "Pause",
+        "usage_context": "Indicates a thoughtful or natural pause",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "AnxietySecondary"
+        ]
+    },
+    "SighRealization_Connor": {
+        "description": "Sound of Sigh Realization.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/SighRealization/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.7
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.7
+        },
+        "amplitude_range": {
+            "min": -0.088,
+            "max": 0.066
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1508.42,
+            "time_jitter_pct": 29.37
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "LaughterHeartyWav_Connor": {
+        "description": "Sound of Laughter Hearty Wav.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/LaughterHeartyWav/Connor.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 3.06
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 3.06
+        },
+        "amplitude_range": {
+            "min": -0.55,
+            "max": 0.574
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1305.77,
+            "time_jitter_pct": 21.67
+        },
+        "transcript_marker": "Laughter"
+    },
+    "GaspOverwhelmed_Connor": {
+        "description": "Sound of Gasp Overwhelmed.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/GaspOverwhelmed/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.58
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.58
+        },
+        "amplitude_range": {
+            "min": -0.192,
+            "max": 0.236
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1748.16,
+            "time_jitter_pct": 28.23
+        },
+        "transcript_marker": "Gasp",
+        "usage_context": "Sharp intake of breath indicating surprise or shock",
+        "insertion_timing": "pre-utterance",
+        "emotion_alignment": [
+            "SurprisePrimary",
+            "FearPrimary"
+        ]
+    },
+    "GroanContent_Connor": {
+        "description": "Sound of Groan Content.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/GroanContent/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.24
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.24
+        },
+        "amplitude_range": {
+            "min": -0.082,
+            "max": 0.06
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1813.55,
+            "time_jitter_pct": 31.96
+        },
+        "transcript_marker": "Groan"
+    },
+    "SighDetermined_Connor": {
+        "description": "Sound of Sigh Determined.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/SighDetermined/Connor.wav",
+        "prosody_hint": "crescendo around 60% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.73
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.73
+        },
+        "amplitude_range": {
+            "min": -0.137,
+            "max": 0.174
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1399.12,
+            "time_jitter_pct": 25.18
+        },
+        "transcript_marker": "Sigh",
+        "usage_context": "Expresses sadness, relief, or exasperation",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "SadnessSecondary",
+            "ReliefPrimary"
+        ]
+    },
+    "CheerEnthusiastic_Connor": {
+        "description": "Sound of Cheer Enthusiastic.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/CheerEnthusiastic/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 4.31
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 4.31
+        },
+        "amplitude_range": {
+            "min": -0.79,
+            "max": 0.883
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1471.93,
+            "time_jitter_pct": 23.14
+        },
+        "transcript_marker": "Cheer",
+        "usage_context": "Expresses celebration or approval",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary"
+        ]
+    },
+    "ShiverFearful_Connor": {
+        "description": "Sound of Shiver Fearful.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/ShiverFearful/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 1.67
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 1.67
+        },
+        "amplitude_range": {
+            "min": -0.178,
+            "max": 0.118
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1057.12,
+            "time_jitter_pct": 32.32
+        },
+        "transcript_marker": "Shiver",
+        "usage_context": "Expresses cold, fear, or chills",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "NonverbalSkeptical_Connor": {
+        "description": "Sound of Nonverbal Skeptical.",
+        "probability_weight": 0.0137,
+        "file_path": "male/nonverbal_cues/NonverbalSkeptical/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.8
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.8
+        },
+        "amplitude_range": {
+            "min": -0.201,
+            "max": 0.129
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1761.8,
+            "time_jitter_pct": 26.55
+        },
+        "transcript_marker": "Nonverbal",
+        "usage_context": "Expresses disapproval or skepticism",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisapprovalSecondary"
+        ]
+    },
+    "ShiverCold_Connor": {
+        "description": "Sound of Shiver Cold.",
+        "probability_weight": 0.0091,
+        "file_path": "male/nonverbal_cues/ShiverCold/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.18
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.18
+        },
+        "amplitude_range": {
+            "min": -0.126,
+            "max": 0.082
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1528.29,
+            "time_jitter_pct": 33.15
+        },
+        "transcript_marker": "Shiver",
+        "usage_context": "Expresses cold, fear, or chills",
+        "insertion_timing": "intra-utterance",
+        "emotion_alignment": [
+            "DisgustPrimary"
+        ]
+    },
+    "LaughterSpeaking_Connor": {
+        "description": "Sound of Laughter Speaking.",
+        "probability_weight": 0.0137,
+        "file_path": "male/nonverbal_cues/LaughterSpeaking/Connor.wav",
+        "prosody_hint": "sharp attack at start, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.98
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.98
+        },
+        "amplitude_range": {
+            "min": -0.334,
+            "max": 0.497
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1285.54,
+            "time_jitter_pct": 27.07
+        },
+        "transcript_marker": "Laughter",
+        "usage_context": "Expresses amusement or laughter after something funny",
+        "insertion_timing": "post-utterance",
+        "emotion_alignment": [
+            "JoyPrimary",
+            "AmusementSecondary"
+        ]
+    },
+    "NonvebalQuickAgree_Connor": {
+        "description": "Sound of Nonvebal Quick Agree.",
+        "probability_weight": 0.0046,
+        "file_path": "male/nonverbal_cues/NonvebalQuickAgree/Connor.wav",
+        "prosody_hint": "crescendo around 30-40% of duration, fade out after 70%",
+        "default_offsets": {
+            "start": 0.0,
+            "end": 2.47
+        },
+        "duration_range": {
+            "min": 0.0,
+            "max": 2.47
+        },
+        "amplitude_range": {
+            "min": -0.165,
+            "max": 0.094
+        },
+        "variation_params": {
+            "pitch_jitter_cents": 1613.94,
+            "time_jitter_pct": 31.15
+        },
+        "transcript_marker": "Nonvebal"
+    }
+}

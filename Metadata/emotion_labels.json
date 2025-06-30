@@ -1,0 +1,902 @@
+[
+    {
+        "JoyPrimary": {
+            "description": "Pure, exuberant happiness from joyful experiences joy."
+        }
+    },
+    {
+        "ReliefSecondary": {
+            "description": "Calm happiness after resolving stress or danger relief."
+        }
+    },
+    {
+        "AngerPrimary": {
+            "description": "Strong displeasure triggered by wrongdoing or conflict anger."
+        }
+    },
+    {
+        "FrustrationSecondary": {
+            "description": "Irritation caused by obstacles or unmet expectations frustration."
+        }
+    },
+    {
+        "SadnessPrimary": {
+            "description": "Emotional pain from loss, disappointment, or grief sadness."
+        }
+    },
+    {
+        "FearPrimary": {
+            "description": "Distress caused by perceived danger or uncertainty fear."
+        }
+    },
+    {
+        "ExcitementSecondary": {
+            "description": "Eager anticipation and energetic enthusiasm excitement."
+        }
+    },
+    {
+        "CalmnessPrimary": {
+            "description": "Peaceful emotional state of relaxation and ease calmness."
+        }
+    },
+    {
+        "GratitudeSecondary": {
+            "description": "Heartfelt thankfulness for kindness or help gratitude."
+        }
+    },
+    {
+        "ConfidenceSecondary": {
+            "description": "Self-assuredness and belief in one’s ability confidence."
+        }
+    },
+    {
+        "CompassionSecondary": {
+            "description": "Deep empathy and desire to support others compassion."
+        }
+    },
+    {
+        "JealousySecondary": {
+            "description": "Resentful longing for what others possess jealousy."
+        }
+    },
+    {
+        "AwePrimary": {
+            "description": "Overwhelming wonder inspired by greatness or beauty awe."
+        }
+    },
+    {
+        "CuriositySecondary": {
+            "description": "Intense interest and desire to learn or understand curiosity."
+        }
+    },
+    {
+        "GuiltSecondary": {
+            "description": "Regret and remorse over one’s actions or mistakes guilt."
+        }
+    },
+    {
+        "ShameSecondary": {
+            "description": "Embarrassment or humiliation due to self-perception shame."
+        }
+    },
+    {
+        "LovePrimary": {
+            "description": "Deep affection and emotional connection with others love."
+        }
+    },
+    {
+        "AngerPrimary": {
+            "description": "A strong emotional reaction to perceived injustice, mistreatment, or frustration anger."
+        }
+    },
+    {
+        "ReliefSecondary": {
+            "description": "A calming emotion following the end of stress, fear, or anxiety relief."
+        }
+    },
+    {
+        "SurprisePrimary": {
+            "description": "A sudden emotional response to an unexpected or unforeseen event surprise."
+        }
+    },
+    {
+        "FearPrimary": {
+            "description": "A primal emotion triggered by perceived danger, uncertainty, or threat fear."
+        }
+    },
+    {
+        "NostalgiaSecondary": {
+            "description": "A sentimental longing for the past, often blending happiness and sadness nostalgia."
+        }
+    },
+    {
+        "SuspicionSecondary": {
+            "description": "An uneasy emotion rooted in doubt, distrust, or anticipation of wrongdoing suspicion."
+        }
+    },
+    {
+        "EmpathySecondary": {
+            "description": "A compassionate emotional response to another's experiences, marked by deep understanding and care empathy."
+        }
+    },
+    {
+        "RegretSecondary": {
+            "description": "Sadness and reflection on past mistakes regret."
+        }
+    },
+    {
+        "HopeSecondary": {
+            "description": "Optimism and anticipation for future outcomes hope."
+        }
+    },
+    {
+        "EnvySecondary": {
+            "description": "Desire for what others have, tinged with sadness envy."
+        }
+    },
+    {
+        "JealousySecondary": {
+            "description": "Resentment fueled by comparison or insecurity jealousy."
+        }
+    },
+    {
+        "GuiltSecondary": {
+            "description": "Reflective sadness from recognizing a moral wrong guilt."
+        }
+    },
+    {
+        "GratitudeSecondary": {
+            "description": "Warm appreciation and connection through kindness gratitude."
+        }
+    },
+    {
+        "LonelinessSecondary": {
+            "description": "Isolation and sadness from lack of connection loneliness."
+        }
+    },
+    {
+        "PrideSecondary": {
+            "description": "Happiness derived from accomplishments or milestones pride."
+        }
+    },
+    {
+        "AnxietyPrimary": {
+            "description": "A state of worry and tension in the face of uncertainty anxiety."
+        }
+    },
+    {
+        "CuriositySecondary": {
+            "description": "A drive to explore and discover through anticipation curiosity."
+        }
+    },
+    {
+        "ShameSecondary": {
+            "description": "Self-conscious regret rooted in perceived failure shame."
+        }
+    },
+    {
+        "DeterminationSecondary": {
+            "description": "Focused anticipation and perseverance through challenge determination."
+        }
+    },
+    {
+        "EmbarrassmentSecondary": {
+            "description": "Discomfort and awkwardness in social settings embarrassment."
+        }
+    },
+    {
+        "AdmirationSecondary": {
+            "description": "Respectful love or awe for someone’s qualities or actions admiration."
+        }
+    },
+    {
+        "NostalgiaSecondary": {
+            "description": "Happy longing for meaningful past moments nostalgia."
+        }
+    },
+    {
+        "ReliefSecondary": {
+            "description": "Release of tension after overcoming uncertainty or danger relief."
+        }
+    },
+    {
+        "AweSecondary": {
+            "description": "A profound feeling of wonder or amazement awe."
+        }
+    },
+    {
+        "ContemptSecondary": {
+            "description": "Disdain and a sense of superiority over others contempt."
+        }
+    },
+    {
+        "SurprisePrimary": {
+            "description": "A sudden emotional reaction to the unexpected surprise."
+        }
+    },
+    {
+        "ResentmentSecondary": {
+            "description": "Bitter anger rooted in unresolved conflict or betrayal resentment."
+        }
+    },
+    {
+        "HopeSecondary": {
+            "description": "Anticipation and belief in positive change amid adversity hope."
+        }
+    },
+    {
+        "TrustSecondary": {
+            "description": "Emotional security rooted in reliability and love trust."
+        }
+    },
+    {
+        "DisappointmentSecondary": {
+            "description": "Sadness from unmet expectations or failed hopes disappointment."
+        }
+    },
+    {
+        "BoredomSecondary": {
+            "description": "Disinterest from repetitive tasks or lack of stimulation boredom."
+        }
+    },
+    {
+        "CompassionSecondary": {
+            "description": "Empathy and love shown through support and understanding compassion."
+        }
+    },
+    {
+        "FrustrationSecondary": {
+            "description": "Irritation or anger when facing difficulties or incompetence frustration."
+        }
+    },
+    {
+        "AnxietySecondary": {
+            "description": "Apprehension and fear in uncertain or high-pressure situations anxiety."
+        }
+    },
+    {
+        "PrideSecondary": {
+            "description": "Happiness and self-achievement after reaching personal goals pride."
+        }
+    },
+    {
+        "JealousySecondary": {
+            "description": "Anger or envy from comparing oneself to others' success jealousy."
+        }
+    },
+    {
+        "ShameSecondary": {
+            "description": "Sadness and humiliation after failure or moral missteps shame."
+        }
+    },
+    {
+        "CuriositySecondary": {
+            "description": "Interest and wonder driven by the desire to learn or explore curiosity."
+        }
+    },
+    {
+        "GuiltSecondary": {
+            "description": "Sadness and remorse due to causing harm or breaking trust guilt."
+        }
+    },
+    {
+        "AnticipationSecondary": {
+            "description": "Excitement and happiness while looking forward to future events anticipation."
+        }
+    },
+    {
+        "LonelinessSecondary": {
+            "description": "Sadness and isolation due to lack of connection or companionship loneliness."
+        }
+    },
+    {
+        "GratitudeSecondary": {
+            "description": "Happiness and appreciation for kindness and support received gratitude."
+        }
+    },
+    {
+        "RegretSecondary": {
+            "description": "Sadness and remorse over past mistakes or missed opportunities regret."
+        }
+    },
+    {
+        "DeterminationSecondary": {
+            "description": "Focus and resolve to overcome obstacles and reach goals determination."
+        }
+    },
+    {
+        "AweSecondary": {
+            "description": "Wonder and astonishment at greatness or the extraordinary awe."
+        }
+    },
+    {
+        "EmbarrassmentSecondary": {
+            "description": "Shame and self-consciousness from awkward or public mistakes embarrassment."
+        }
+    },
+    {
+        "ReliefSecondary": {
+            "description": "Happiness and ease after resolving tension or danger relief."
+        }
+    },
+    {
+        "SympathySecondary": {
+            "description": "Empathy and compassion for someone else’s struggles sympathy."
+        }
+    },
+    {
+        "FrustrationSecondary": {
+            "description": "Anger and impatience caused by delays or inefficiencies frustration."
+        }
+    },
+    {
+        "ConfidenceSecondary": {
+            "description": "Happiness and certainty in one’s ability or plan confidence."
+        }
+    },
+    {
+        "SurprisePrimary": {
+            "description": "Reaction to unexpected events or outcomes surprise."
+        }
+    },
+    {
+        "DisappointmentSecondary": {
+            "description": "Sadness and regret after unmet expectations or setbacks disappointment."
+        }
+    },
+    {
+        "CompassionSecondary": {
+            "description": "Empathy and deep care for others during hardship compassion."
+        }
+    },
+    {
+        "OptimismSecondary": {
+            "description": "Hopefulness and positive expectation for the future optimism."
+        }
+    },
+    {
+        "LonelinessSecondary": {
+            "description": "Feeling isolated or socially disconnected loneliness."
+        }
+    },
+    {
+        "GratefulnessSecondary": {
+            "description": "Appreciation and thankfulness for kindness or support gratefulness."
+        }
+    },
+    {
+        "GuiltSecondary": {
+            "description": "Feeling responsible and remorseful for mistakes guilt."
+        }
+    },
+    {
+        "AnticipationSecondary": {
+            "description": "Excitement and eagerness for upcoming events or outcomes anticipation."
+        }
+    },
+    {
+        "SuspicionSecondary": {
+            "description": "Distrust and apprehension about motives or situations suspicion."
+        }
+    },
+    {
+        "JoyPrimary": {
+            "description": "Pure, exuberant happiness and celebration joy."
+        }
+    },
+    {
+        "ShameSecondary": {
+            "description": "Self-consciousness and humiliation over actions or mistakes shame."
+        }
+    },
+    {
+        "NostalgiaSecondary": {
+            "description": "Sentimental reflection on cherished past memories nostalgia."
+        }
+    },
+    {
+        "RegretSecondary": {
+            "description": "Sadness and responsibility for past choices and their consequences regret."
+        }
+    },
+    {
+        "TriumphSecondary": {
+            "description": "Victory, success, and pride in accomplishments triumph."
+        }
+    },
+    {
+        "AwePrimary": {
+            "description": "Wonder and amazement at extraordinary events or beauty awe."
+        }
+    },
+    {
+        "JealousySecondary": {
+            "description": "Envy and comparison, longing for what others have jealousy."
+        }
+    },
+    {
+        "CompassionSecondary": {
+            "description": "Kindness and empathetic support for others' struggles compassion."
+        }
+    },
+    {
+        "ConfidenceSecondary": {
+            "description": "Self-assurance and empowerment in one's abilities confidence."
+        }
+    },
+    {
+        "AdmirationSecondary": {
+            "description": "Respect and inspiration recognizing talent, effort, or extraordinary qualities admiration."
+        }
+    },
+    {
+        "DeterminationSecondary": {
+            "description": "Perseverance and focused effort toward overcoming obstacles and achieving goals determination."
+        }
+    },
+    {
+        "GriefSecondary": {
+            "description": "Loss and sadness experienced due to mourning or sorrow grief."
+        }
+    },
+    {
+        "PrideSecondary": {
+            "description": "Self-worth and accomplishment reflecting on personal achievements and milestones pride."
+        }
+    },
+    {
+        "InsecuritySecondary": {
+            "description": "Self-doubt and anxiety when facing uncertainty or challenging situations insecurity."
+        }
+    },
+    {
+        "SuspicionSecondary": {
+            "description": "Doubt and guardedness involving questioning motives and perceiving dishonesty suspicion."
+        }
+    },
+    {
+        "EnvySecondary": {
+            "description": "Longing and desire characterized by unfavorable comparison and yearning envy."
+        }
+    },
+    {
+        "HumiliationSecondary": {
+            "description": "Shame and embarrassment from public failure or harsh criticism humiliation."
+        }
+    },
+    {
+        "NostalgiaSecondary": {
+            "description": "Sentimentality and warmth through reflection on cherished memories nostalgia."
+        }
+    },
+    {
+        "RegretSecondary": {
+            "description": "Remorse and reflection on mistakes, missed opportunities, or poor decisions regret."
+        }
+    },
+    {
+        "AnticipationSecondary": {
+            "description": "Excitement and apprehension while waiting for an outcome or event anticipation."
+        }
+    },
+    {
+        "ContentmentPrimary": {
+            "description": "Feeling satisfied, peaceful, and quietly happy contentment."
+        }
+    },
+    {
+        "DisdainSecondary": {
+            "description": "Contempt and disapproval in response to disliked behaviors or ideas disdain."
+        }
+    },
+    {
+        "PitySecondary": {
+            "description": "Empathy and compassion toward those experiencing hardship pity."
+        }
+    },
+    {
+        "EuphoriaPrimary": {
+            "description": "Extreme happiness and ecstasy, celebrating joyous moments euphoria."
+        }
+    },
+    {
+        "TechNostalgia": {
+            "description": "A longing for earlier technological eras or simpler times in a world increasingly dominated by automation. o “Remember when life felt slower, and the sound of a dial-up connection meant adventure? I miss those days.” techNostalgia."
+        }
+    },
+    {
+        "DigitalOverwhelm": {
+            "description": "A state of emotional fatigue caused by excessive digital stimuli or information overload. o “Every notification feels like an alarm—my mind’s racing, and I can’t seem to find the pause button.” digitalOverwhelm."
+        }
+    },
+    {
+        "VirtualImmersion": {
+            "description": "The awe and wonder experienced when entering an advanced virtual or augmented reality. o “Stepping into this virtual world feels surreal, as if I’m touching the future with every movement.” virtualImmersion."
+        }
+    },
+    {
+        "OptimisticAnticipation": {
+            "description": "The excitement and positive expectations about an upcoming technological breakthrough or life-changing event. o “The idea of what’s coming tomorrow fills me with a hope so powerful, I can almost feel the future here now.” optimisticAnticipation."
+        }
+    },
+    {
+        "FearofObsolescence": {
+            "description": "Anxiety about being replaced by advancing technology or feeling left behind in a fast-moving world. o “I can’t help but wonder if there’s still a place for me when machines seem to be doing it all better, faster.” fearofObsolescence."
+        }
+    },
+    {
+        "FutureShock": {
+            "description": "A feeling of disorientation caused by rapid technological and societal change. o “Everything is evolving so quickly, I feel like I’m running to catch up with a world that’s already moved on.” futureShock."
+        }
+    },
+    {
+        "DigitalLoneliness": {
+            "description": "The emotional emptiness from relying too heavily on virtual connections over real-life interactions. o “There are a hundred messages on my screen, but none of them feel like someone really knows me.” digitalLoneliness."
+        }
+    },
+    {
+        "EmpowermentThroughInnovation": {
+            "description": "A sense of empowerment and possibility from using cutting-edge tools or systems. o “With this technology, I feel unstoppable, as if I can accomplish things I only dreamed of before.” empowermentThroughInnovation."
+        }
+    },
+    {
+        "AweofHumanProgress": {
+            "description": "A deep admiration and pride for humanity’s ability to achieve groundbreaking innovations. o “Seeing what we’ve built—what we’ve achieved—fills me with a sense of awe that’s hard to put into words.” aweofHumanProgress."
+        }
+    },
+    {
+        "EthicalDilemmaOverProgress": {
+            "description": "Inner conflict about the potential consequences of technological or scientific advancement. o “As incredible as this innovation is, I can’t help but wonder—at what cost are we moving forward?” ethicalDilemmaOverProgress."
+        }
+    },
+    {
+        "Sonder": {
+            "description": "The realization that every person has a complex life as vivid and intricate as one’s own. “I watched the stranger walk by, realizing they carry a universe of stories I’ll never know.” sonder."
+        }
+    },
+    {
+        "Monachopsis": {
+            "description": "The subtle but persistent feeling of being out of place. o “No matter how hard I try, there’s always a sense that I don’t quite belong here.” monachopsis."
+        }
+    },
+    {
+        "Opia": {
+            "description": "The ambiguous intensity of looking someone in the eye, feeling vulnerable yet connected. o “For a moment, our eyes met, and I felt exposed, as if they could see everything I was hiding.” opia."
+        }
+    },
+    {
+        "Vemodalen": {
+            "description": "The frustration of knowing that everything has already been done yet wanting to create something unique. o “Every idea feels like a shadow of something that’s come before, yet I still can’t stop trying.” vemodalen."
+        }
+    },
+    {
+        "Chrysalism": {
+            "description": "The calm, quiet comfort of being indoors during a thunderstorm. o “Listening to the rain outside, I felt an inexplicable sense of peace wash over me.” chrysalism."
+        }
+    },
+    {
+        "Rubatosis": {
+            "description": "The unsettling awareness of your own heartbeat.• o “Each thud of my heart seemed louder, a reminder of how fragile life can be.” rubatosis."
+        }
+    },
+    {
+        "Nighthawk": {
+            "description": "The melancholy of being awake late at night, reflecting on the past. o “The world was silent, yet my mind was loud, replaying memories I wished I could rewrite.” nighthawk."
+        }
+    },
+    {
+        "Mauerbauertraurigkeit": {
+            "description": "The inexplicable urge to push people away, even those you care about. o “I wanted to be alone, not because I didn’t care, but because I was afraid they’d see the chaos inside me.” mauerbauertraurigkeit."
+        }
+    },
+    {
+        "Liberosis": {
+            "description": "The desire to care less about things. o “I longed to let go, to stop worrying about everything I couldn’t control.” liberosis."
+        }
+    },
+    {
+        "Enouement": {
+            "description": "The bittersweetness of having arrived in the future and not being able to tell your past self how things turned out. o “If only I could go back and tell myself that everything would be okay— though, perhaps, I needed to learn it for myself.” enouement."
+        }
+    },
+    {
+        "Saudade": {
+            "description": "A deep emotional state of nostalgic longing for something or someone absent, accompanied by a repressed knowledge that what is longed for might never return saudade."
+        }
+    },
+    {
+        "Sehnsucht": {
+            "description": "An intense yearning for an unfulfilled dream or an idealized version of life sehnsucht."
+        }
+    },
+    {
+        "Resfeber": {
+            "description": "The restless excitement and anxiety before a journey begins resfeber."
+        }
+    },
+    {
+        "Gene": {
+            "description": "The disorientation felt when in a completely foreign environment gene."
+        }
+    },
+    {
+        "Ataraxia": {
+            "description": "A serene state of being free from emotional disturbance and anxiety ataraxia."
+        }
+    },
+    {
+        "Eucatastrophe": {
+            "description": "A sudden, unexpected turn of events that leads to a favorable outcome eucatastrophe."
+        }
+    },
+    {
+        "Sillage": {
+            "description": "The lingering trace of someone or something that has left sillage."
+        }
+    },
+    {
+        "Natsukashii": {
+            "description": "A nostalgic feeling triggered by a memory of the past natsukashii."
+        }
+    },
+    {
+        "Limerence": {
+            "description": "The intense, involuntary state of infatuation with someone limerence."
+        }
+    },
+    {
+        "Ubuntu": {
+            "description": "A sense of humanity and interconnectedness ubuntu."
+        }
+    },
+    {
+        "Meraki": {
+            "description": "The soulful, creative effort one puts into their work meraki."
+        }
+    },
+    {
+        "Kaukokaipuu": {
+            "description": "An intense longing for distant places, a form of wanderlust kaukokaipuu."
+        }
+    },
+    {
+        "Hygge": {
+            "description": "A feeling of coziness and contentment hygge."
+        }
+    },
+    {
+        "Mudita": {
+            "description": "Joy derived from another's happiness mudita."
+        }
+    },
+    {
+        "Toska": {
+            "description": "A deep, aching sense of yearning or melancholy toska."
+        }
+    },
+    {
+        "Firgun": {
+            "description": "Genuine, unselfish happiness for another's success firgun."
+        }
+    },
+    {
+        "Wabi-Sabi": {
+            "description": "A Japanese aesthetic that finds beauty in imperfection and transience wabi-Sabi."
+        }
+    },
+    {
+        "Gene": {
+            "description": "A profound sense of the mysterious beauty of the universe gene."
+        }
+    },
+    {
+        "Komorebi": {
+            "description": "The sunlight filtering through leaves komorebi."
+        }
+    },
+    {
+        "Sisu": {
+            "description": "A Finnish term for resilience and determination in the face of adversity sisu."
+        }
+    },
+    {
+        "Saudade": {
+            "description": "A deep emotional state of nostalgic longing for something or someone that one loves but is lost saudade."
+        }
+    },
+    {
+        "Sehnsucht": {
+            "description": "An intense, life-longing yearning or craving sehnsucht."
+        }
+    },
+    {
+        "Limerence": {
+            "description": "The state of being infatuated or obsessed with another person, typically experienced involuntarily limerence."
+        }
+    },
+    {
+        "MononoAware": {
+            "description": "A Japanese term for the awareness of the impermanence of things, and a gentle, wistful sadness at their passing mononoAware."
+        }
+    },
+    {
+        "Natsukashii": {
+            "description": "A Japanese term for a nostalgic feeling of fondness for the past natsukashii."
+        }
+    },
+    {
+        "Acedia": {
+            "description": "A state of listlessness or torpor, of not caring or being unable to act acedia."
+        }
+    },
+    {
+        "Ijirashii": {
+            "description": "A Japanese term for feeling moved by someone’s admirable resilience or perseverance ijirashii."
+        }
+    },
+    {
+        "Ubuntu": {
+            "description": "A Southern African term emphasizing humanity's shared connection and mutual care ubuntu."
+        }
+    },
+    {
+        "Sprezzatura": {
+            "description": "Studied nonchalance, the art of making something difficult look effortless sprezzatura."
+        }
+    },
+    {
+        "Resfeber": {
+            "description": "The restless race of the traveler’s heart before the journey begins resfeber."
+        }
+    },
+    {
+        "Gene": {
+            "description": "A profound, mysterious sense of beauty and the universe that triggers deep emotional feelings gene."
+        }
+    },
+    {
+        "Gene": {
+            "description": "The feeling of being in a foreign place and experiencing disorientation and curiosity gene."
+        }
+    },
+    {
+        "Torschlusspanik": {
+            "description": "The fear of time running out or opportunities slipping away torschlusspanik."
+        }
+    },
+    {
+        "Gene": {
+            "description": "A special place discovered, treasured, and returned to for solace and relaxation gene."
+        }
+    },
+    {
+        "Nikhedonia": {
+            "description": "The pleasure and anticipation derived from imagining success before achieving it nikhedonia."
+        }
+    },
+    {
+        "Eunoia": {
+            "description": "A feeling of goodwill and beautiful thinking eunoia."
+        }
+    },
+    {
+        "Amae": {
+            "description": "A Japanese term for the feeling of comfort and dependence in a trusted relationship amae."
+        }
+    },
+    {
+        "Weltschmerz": {
+            "description": "The melancholy feeling that arises from comparing the imperfect reality to an idealized world weltschmerz."
+        }
+    },
+    {
+        "Mudita": {
+            "description": "Sympathetic or unselfish joy, the happiness experienced when others succeed mudita."
+        }
+    },
+    {
+        "Gene": {
+            "description": "A Hungarian term for quick-witted humor and intelligence gene."
+        }
+    },
+    {
+        "Natsukashii": {
+            "description": "A gentle happiness and longing when recalling fond memories of the past natsukashii."
+        }
+    },
+    {
+        "Saudade": {
+            "description": "Deep emotional yearning for something or someone that is absent, or for a past that can never return saudade."
+        }
+    },
+    {
+        "Kaukokaipuu": {
+            "description": "An intense longing for far-off places or adventures kaukokaipuu."
+        }
+    },
+    {
+        "Sisu": {
+            "description": "The extraordinary determination and perseverance in the face of challenges sisu."
+        }
+    },
+    {
+        "Gene": {
+            "description": "A sense of collective melancholy, often felt when thinking of the past or cultural heritage gene."
+        }
+    },
+    {
+        "Jouska": {
+            "description": "The compulsive replaying of hypothetical conversations in one’s mind jouska."
+        }
+    },
+    {
+        "Fago": {
+            "description": "A complex blend of love, compassion, and sadness often felt for someone suffering fago."
+        }
+    },
+    {
+        "Gene": {
+            "description": "A whimsical or quick-witted sense of humor, often delivering clever insights gene."
+        }
+    },
+    {
+        "Ukiyo": {
+            "description": "Living in the moment, detached from the troubles of life ukiyo."
+        }
+    },
+    {
+        "MonoNoAware": {
+            "description": "An awareness of the impermanence of things, and a gentle, bittersweet acceptance of it monoNoAware."
+        }
+    },
+    {
+        "Resfeber": {
+            "description": "The mixed emotions of excitement and anxiety before embarking on a journey resfeber."
+        }
+    },
+    {
+        "Limerence": {
+            "description": "The intense feelings of infatuation and obsessive thoughts about someone limerence."
+        }
+    },
+    {
+        "Ambedo": {
+            "description": "A melancholic trance where you become absorbed in vivid sensory details ambedo."
+        }
+    },
+    {
+        "Mudita": {
+            "description": "Genuine happiness derived from someone else’s success or joy mudita."
+        }
+    },
+    {
+        "Hiraeth": {
+            "description": "A deep nostalgia and yearning for a home or place you can no longer return to hiraeth."
+        }
+    },
+    {
+        "Sehnsucht": {
+            "description": "An intense yearning for something unattainable or distant sehnsucht."
+        }
+    },
+    {
+        "Pronoia": {
+            "description": "The belief that the universe is conspiring in your favor pronoia."
+        }
+    },
+    {
+        "DulcineaEffect": {
+            "description": "Romanticizing someone, often seeing them as more perfect than they are dulcineaEffect."
+        }
+    },
+    {
+        "Sonder": {
+            "description": "The realization that everyone has a life as complex and vivid as your own sonder."
+        }
+    },
+    {
+        "Chiaroscuro": {
+            "description": "The interplay of light and dark emotions, a balance of joy and sadness chiaroscuro."
+        }
+    }
+]
